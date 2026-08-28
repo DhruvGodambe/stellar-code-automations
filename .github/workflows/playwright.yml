@@ -30,4 +30,4 @@ jobs:
       with:
         name: playwright-report
         path: Mprofy/playwright-report/
-        retention-days: 30
+        retention-days: 7
