@@ -71,3 +71,10 @@ test.describe('Negative Testing',()=>{
         await expect(page.getByText('Email or Password did not match, Please try again.')).toBeVisible()
     })
 })
+
+test.describe('Visual Testing',()=>{
+    test('Verify ui of login page',async({page,loginPage})=>{
+        await expect(page.getByRole('heading',{name:'Get started with MPROFY'})).toBeVisible()
+        await expect(page).toHaveScreenshot('login-page.png')
+    })
+})
