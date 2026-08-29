@@ -18,12 +18,12 @@
  */
 
 // ===================== CONFIG =====================
-const API_KEY = "YOUR_API_KEY_HERE";
-const TOKEN = "YOUR_TOKEN_HERE";
-const BOARD_ID = "YOUR_BOARD_ID_HERE";
+const API_KEY = process.env.API_KEY;
+const TOKEN = process.env.TOKEN;
+const BOARD_ID = process.env.BOARD_ID;
 
 // Optional: only archive cards from a specific list (leave null for whole board)
-const LIST_ID = null; // e.g. "5f9a1b2c3d4e5f6a7b8c9d0e"
+const LIST_ID = process.env.LIST_ID; // e.g. "5f9a1b2c3d4e5f6a7b8c9d0e"
 
 const MONTHS_THRESHOLD = 6;
 
@@ -78,6 +78,8 @@ async function main() {
     .filter((c) => c.lastActivity < cutoff)
     // oldest activity first - so testing on "first 2" means the genuinely stalest cards
     .sort((a, b) => a.lastActivity - b.lastActivity);
+
+  console.log("SAMPLE (first 3 cards raw):", cards.slice(0, 3).map(c => ({ name: c.name, dateLastActivity: c.dateLastActivity })));
 
   console.log(`Cards with last activity older than ${MONTHS_THRESHOLD} months: ${oldCards.length}`);
 
