@@ -1,40 +1,41 @@
 /**
- * archive-old-trello-cards.js
+ * archive_old_trello_cards.js
  *
- * Bulk-archives Trello cards whose LAST ACTIVITY is older than N months.
+ * Bulk-archives Trello cards CREATED more than N months ago.
+ *
+ * NOTE: We use creation date (not "last activity") because some automation/bot
+ * on this board touches all cards periodically, making dateLastActivity
+ * unreliable for finding genuinely old cards. Creation date is embedded in
+ * the card's ID itself and never changes.
  *
  * SETUP:
- * 1. Get your API key here:      https://trello.com/app-key
- * 2. Generate a token (link on same page, or use):
- *    https://trello.com/1/authorize?expiration=never&scope=read,write&response_type=token&key=YOUR_KEY
- * 3. Get your Board ID: add ".json" to the board URL and look for the "id" field near the top.
- * 4. Fill in the CONFIG section below.
- * 5. First run with TEST_LIMIT = 2 and DRY_RUN = true -> see what would happen to just 2 cards.
- * 6. Then TEST_LIMIT = 2, DRY_RUN = false -> actually archive those 2, go check Trello yourself.
- * 7. If all good, set TEST_LIMIT = null and DRY_RUN = false -> full run on all ~1100.
+ * 1. Fill in API_KEY, TOKEN, BOARD_ID, LIST_ID below (see steps discussed).
+ * 2. First run with TEST_LIMIT = 2 and DRY_RUN = true -> just prints, archives nothing.
+ * 3. Check the printed cards look right, then set DRY_RUN = false (TEST_LIMIT still 2)
+ *    -> archives just those 2. Go check Trello yourself that they moved to Archive.
+ * 4. If correct, set TEST_LIMIT = null and DRY_RUN = false -> full run on all matching cards.
  *
- * Requires Node.js 18+ (uses built-in fetch).
- * Run: node archive-old-trello-cards.js
+ * Requires Node.js 18+ (built-in fetch).
+ * Run: node archive_old_trello_cards.js
  */
 
 // ===================== CONFIG =====================
-const API_KEY = process.env.API_KEY;
-const TOKEN = process.env.TOKEN;
-const BOARD_ID = process.env.BOARD_ID;
+const API_KEY = "paste your api key";
+const TOKEN = "paste your token";
+const BOARD_ID = "paste your board id";
 
-// Optional: only archive cards from a specific list (leave null for whole board)
-const LIST_ID = process.env.LIST_ID; // e.g. "5f9a1b2c3d4e5f6a7b8c9d0e"
+// Set to a specific list's ID to only process that list, or null for whole board.
+const LIST_ID = "paste your list id"; // or: const LIST_ID = null;
 
 const MONTHS_THRESHOLD = 6;
 
-// true = only prints what it WOULD archive, doesn't actually touch anything
+// true = only prints what WOULD be archived, touches nothing.
 const DRY_RUN = true;
 
-// Set to a number (e.g. 2) to only process that many old cards - for safe testing.
-// Set to null to process ALL matching cards.
+// Number of oldest matching cards to process - for safe testing. null = process all.
 const TEST_LIMIT = 2;
 
-// Trello rate limit: ~100 req / 10 sec per token. This delay keeps us safely under it.
+// Delay between archive requests (ms) to stay well under Trello's rate limit.
 const DELAY_MS = 150;
 // ====================================================
 
@@ -42,13 +43,20 @@ function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
+// Trello card IDs are Mongo ObjectIds - first 8 hex chars encode creation time
+// (seconds since epoch). This is always accurate and never changes.
+function getCreatedDateFromId(id) {
+  const timestampHex = id.substring(0, 8);
+  const timestampSec = parseInt(timestampHex, 16);
+  return new Date(timestampSec * 1000);
+}
+
 async function fetchAllCards() {
   const base = LIST_ID
     ? `https://api.trello.com/1/lists/${LIST_ID}/cards`
     : `https://api.trello.com/1/boards/${BOARD_ID}/cards`;
 
-  // dateLastActivity comes directly from Trello - no need to compute anything
-  const url = `${base}?key=${API_KEY}&token=${TOKEN}&fields=id,name,shortUrl,dateLastActivity`;
+  const url = `${base}?key=${API_KEY}&token=${TOKEN}&fields=id,name,shortUrl`;
 
   const res = await fetch(url);
   if (!res.ok) {
@@ -66,6 +74,11 @@ async function archiveCard(cardId) {
 }
 
 async function main() {
+  if (API_KEY.startsWith("PASTE_") || TOKEN.startsWith("PASTE_") || BOARD_ID.startsWith("PASTE_")) {
+    console.error("ERROR: Fill in API_KEY, TOKEN, and BOARD_ID (and LIST_ID if using one) at the top of this file before running.");
+    process.exit(1);
+  }
+
   console.log("Fetching all cards...");
   const cards = await fetchAllCards();
   console.log(`Total cards found: ${cards.length}`);
@@ -74,14 +87,12 @@ async function main() {
   cutoff.setMonth(cutoff.getMonth() - MONTHS_THRESHOLD);
 
   let oldCards = cards
-    .map((c) => ({ ...c, lastActivity: new Date(c.dateLastActivity) }))
-    .filter((c) => c.lastActivity < cutoff)
-    // oldest activity first - so testing on "first 2" means the genuinely stalest cards
-    .sort((a, b) => a.lastActivity - b.lastActivity);
+    .map((c) => ({ ...c, createdAt: getCreatedDateFromId(c.id) }))
+    .filter((c) => c.createdAt < cutoff)
+    // oldest first - so testing on "first N" tests the genuinely stalest cards
+    .sort((a, b) => a.createdAt - b.createdAt);
 
-  console.log("SAMPLE (first 3 cards raw):", cards.slice(0, 3).map(c => ({ name: c.name, dateLastActivity: c.dateLastActivity })));
-
-  console.log(`Cards with last activity older than ${MONTHS_THRESHOLD} months: ${oldCards.length}`);
+  console.log(`Cards created more than ${MONTHS_THRESHOLD} months ago: ${oldCards.length}`);
 
   if (TEST_LIMIT !== null) {
     oldCards = oldCards.slice(0, TEST_LIMIT);
@@ -93,7 +104,7 @@ async function main() {
   let done = 0;
   for (const card of oldCards) {
     console.log(
-      `${done + 1}/${oldCards.length} - "${card.name}" (last activity ${card.lastActivity.toDateString()}) - ${card.shortUrl}`
+      `${done + 1}/${oldCards.length} - "${card.name}" (created ${card.createdAt.toDateString()}) - ${card.shortUrl}`
     );
 
     if (!DRY_RUN) {
