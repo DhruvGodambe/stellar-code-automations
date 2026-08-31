@@ -75,6 +75,10 @@ test.describe('Negative Testing',()=>{
 test.describe('Visual Testing',()=>{
     test('Verify ui of login page',async({page,loginPage})=>{
         await expect(page.getByRole('heading',{name:'Get started with MPROFY'})).toBeVisible()
-        await expect(page).toHaveScreenshot('login-page.png')
+        if(process.env.CI){
+            await expect(page).toHaveScreenshot('login-page-cicd.png')
+        }else{
+            await expect(page).toHaveScreenshot('login-page.png')
+        }
     })
 })

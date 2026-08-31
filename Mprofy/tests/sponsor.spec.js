@@ -27,7 +27,11 @@ test('Verify valid sponsor behaviour',async({sponsorPage,page})=>{
 
 test('Verify visual of sponsor page',async({page,sponsorPage})=>{
     await expect(page.getByRole('heading',{name:"Let's get started quickly"})).toBeVisible()
-    await expect(page).toHaveScreenshot('sponsor-page.png')
+    if(process.env.CI){
+        await expect(page).toHaveScreenshot('sponsor-page-cicd.png')
+    }else{
+        await expect(page).toHaveScreenshot('sponsor-page.png')
+    }
 })
 
 test('Verify login page redirection',async({sponsorPage,page})=>{
