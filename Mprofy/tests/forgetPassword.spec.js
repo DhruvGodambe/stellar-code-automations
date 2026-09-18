@@ -31,7 +31,7 @@ test('Verify page behaviour on valid email input',async({forgetPasswordPage})=>{
     await expect(forgetPasswordPage.validEmailAlert).toBeVisible()
 })
 
-test('Verify visual of page',async({page,forgetPasswordPage})=>{
+test('Verify visual of forget passwordpage',async({page,forgetPasswordPage})=>{
     await expect(forgetPasswordPage.pageHeading).toBeVisible()
     if(process.env.CI){
         await expect(page).toHaveScreenshot('forget-password-page-cicd.png')
