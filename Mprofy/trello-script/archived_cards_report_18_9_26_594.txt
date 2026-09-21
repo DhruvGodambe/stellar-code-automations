@@ -1,0 +1,2383 @@
+Trello Card Archive Report
+Generated on: Fri Sep 18 2026 13:24:28 GMT+0530 (India Standard Time)
+Mode: LIVE (cards were actually archived)
+Cards archived: 594
+Cards remaining in list: 500
+
+----------------------------------------
+
+1. user name
+   Created: Mon Mar 02 2026
+   Link: https://trello.com/c/jwDXQ4GM
+
+2. Need to responsive that new mprojoin 50 ui screens
+   Created: Wed Mar 04 2026
+   Link: https://trello.com/c/uVY9ccvE
+
+3. (check comments) Admin: Appearance of different lists is not consistent
+   Created: Fri Mar 06 2026
+   Link: https://trello.com/c/AEopeHFP
+
+4. Admin: Platform naming correction
+   Created: Fri Mar 06 2026
+   Link: https://trello.com/c/6Z68t3sX
+
+5. Admin: "Upload Course" button in E-Learning is not as per Branding
+   Created: Fri Mar 06 2026
+   Link: https://trello.com/c/kq3FYH3e
+
+6. Admin: Certain buttons are not as per Branding
+   Created: Fri Mar 06 2026
+   Link: https://trello.com/c/DAi7NYoc
+
+7. Free users can also access to socials and geniology and all other screens. No restrictions as earlier.
+   Created: Sat Mar 07 2026
+   Link: https://trello.com/c/mQ3wxYjX
+
+8. Setup Google authentication as a 2FA for Mprofy login.
+   Created: Sat Mar 07 2026
+   Link: https://trello.com/c/Q75TwQjv
+
+9. Setup Google authentication as a 2FA for Mprofy admin login
+   Created: Sat Mar 07 2026
+   Link: https://trello.com/c/pEX7FhoI
+
+10. Free user should be able to referr as per new rewards plan in V2
+   Created: Mon Mar 09 2026
+   Link: https://trello.com/c/cnP8ykXA
+
+11. two store tabs in side menu
+   Created: Wed Mar 11 2026
+   Link: https://trello.com/c/Dx168kud
+
+12. Referral page is not displaying link for free users in V2
+   Created: Wed Mar 11 2026
+   Link: https://trello.com/c/99GdKZqc
+
+13. why is the dropdown all white when creating user and selecting country
+   Created: Wed Mar 11 2026
+   Link: https://trello.com/c/TAhJcJQk
+
+14. Give all old free users a referral code using a script.  It should not show in any other branch rathan than V2
+   Created: Wed Mar 11 2026
+   Link: https://trello.com/c/VLXvetM7
+
+15. user name
+   Created: Thu Mar 12 2026
+   Link: https://trello.com/c/JuIkvvXv
+
+16. Admin: All accounts are displayed as active in Members list
+   Created: Thu Mar 12 2026
+   Link: https://trello.com/c/0nlyaFxt
+
+17. Admin: Back Arrow button is not working
+   Created: Thu Mar 12 2026
+   Link: https://trello.com/c/ZeUFr6Ml
+
+18. Admin: The appearance of back arrow button in Mprojoin Admin should be consistent
+   Created: Thu Mar 12 2026
+   Link: https://trello.com/c/wQt1MVRP
+
+19. Admin: Headings of different sections should be similar in appearances
+   Created: Thu Mar 12 2026
+   Link: https://trello.com/c/eNzfxrvD
+
+20. Admin: Complete description is not visible for some vouchers
+   Created: Thu Mar 12 2026
+   Link: https://trello.com/c/0QVN8GPF
+
+21. Admin: "Create New Voucher" title is should be displayed in top-left of the card
+   Created: Thu Mar 12 2026
+   Link: https://trello.com/c/74aZY3Vn
+
+22. Admin: Announcement title text box is not visible
+   Created: Thu Mar 12 2026
+   Link: https://trello.com/c/BCdM1po4
+
+23. Admin: Voucher name appearance needs to change
+   Created: Thu Mar 12 2026
+   Link: https://trello.com/c/AnJByshf
+
+24. Admin: Dropdown menu inside the Voucher page should be as per branding
+   Created: Thu Mar 12 2026
+   Link: https://trello.com/c/pIwCZ4VY
+
+25. Admin: Dropdown menu for expiration duration is not required in Vouchers
+   Created: Thu Mar 12 2026
+   Link: https://trello.com/c/vemJqGJ1
+
+26. Admin: The table headers in all the lists should be center aligned
+   Created: Thu Mar 12 2026
+   Link: https://trello.com/c/H58RTFEF
+
+27. the animated stars needs to be displayed dynamically.
+   Created: Fri Mar 13 2026
+   Link: https://trello.com/c/wUBPELkf
+
+28. Should mention Exact pool name like Deed pool or star 1 pool etc etc
+   Created: Fri Mar 13 2026
+   Link: https://trello.com/c/0hL7m3hJ
+
+29. minting didnt go through for this user. there was 3.8 POL in operator wallet. username: usertest27 ------ Cron job which listens for failed NFT's is not working
+   Created: Fri Mar 13 2026
+   Link: https://trello.com/c/bqzHvbiN
+
+30. When user doesnt renew his ABL, even though if he is Deed, his access level in the platform will be demoted to seed for earning commissions and social access in V2
+   Created: Fri Mar 13 2026
+   Link: https://trello.com/c/ChUUi3xz
+
+31. I bought a deed with price 0.01$, how is BV 0.1 and not 0.01?
+   Created: Fri Mar 13 2026
+   Link: https://trello.com/c/ZngvHdQr
+
+32. Pool earnings should not contribute to BV. for pool earning rows, display BV as "-"
+   Created: Fri Mar 13 2026
+   Link: https://trello.com/c/js84RuMR
+
+33. This number should be 0.01 not not 0.009 something. Why is it like that?
+   Created: Fri Mar 13 2026
+   Link: https://trello.com/c/8B5wVJia
+
+34. This is a new user account. he is a free user, should only show active once he has an active ABL subscription (means we give 1 year ABL subscription when user purchase deed, after 1 year user has to buy ABL package from store page) in V2
+   Created: Fri Mar 13 2026
+   Link: https://trello.com/c/cq0sXp82
+
+35. Please study this usertest27 commision table carefully. usertest34 has purchased a deed which costed him 0.01$, then why BV is 0.1 ----- Also why BV and amount is not always same for "direct" purchase type --- BV should always be 0 for all pool earnings and amount as it is
+   Created: Fri Mar 13 2026
+   Link: https://trello.com/c/K2q5ZV1p
+
+36. Admin: Title of the toggle button should be in a single line
+   Created: Fri Mar 13 2026
+   Link: https://trello.com/c/RC8E1NUM
+
+37. Add searching in both the geniology in v2
+   Created: Sat Mar 14 2026
+   Link: https://trello.com/c/Lr8aczzv
+
+38. V2: Only last two posts are displayed in dashboard activity feed
+   Created: Mon Mar 16 2026
+   Link: https://trello.com/c/W8OchvQO
+
+39. V2: Show/Hide password button in reset page is working at same time for both text boxes
+   Created: Mon Mar 16 2026
+   Link: https://trello.com/c/RST07FKr
+
+40. V2: Filter of the dashboard Activity feed is not working
+   Created: Mon Mar 16 2026
+   Link: https://trello.com/c/fEgOm4Ql
+
+41. V2: No information is displayed on hovering over the tool tip in dashboard
+   Created: Mon Mar 16 2026
+   Link: https://trello.com/c/i2NSRxMR
+
+42. V2: 'View All feeds' button is not required in Dashboard
+   Created: Mon Mar 16 2026
+   Link: https://trello.com/c/0jMGE2Rc
+
+43. V2: Certain button on Dashboard are not working
+   Created: Mon Mar 16 2026
+   Link: https://trello.com/c/hmXSAkRQ
+
+44. V2: Post deleted from the Profile Timeline is removed only after reloading the page
+   Created: Mon Mar 16 2026
+   Link: https://trello.com/c/xxjCEdnu
+
+45. V2: Special Characters are entered in the names of city
+   Created: Mon Mar 16 2026
+   Link: https://trello.com/c/DpMnU7mv
+
+46. V2: User's own extended details are not visible in private setting
+   Created: Mon Mar 16 2026
+   Link: https://trello.com/c/n42nsL9W
+
+47. Comment under a post is initially displayed twice
+   Created: Mon Mar 16 2026
+   Link: https://trello.com/c/ZV4lpJ3p
+
+48. V2: Percentage of Pool commission is not visible
+   Created: Tue Mar 17 2026
+   Link: https://trello.com/c/oLVTmsM5
+
+49. V2: Amount of Pool-2 reward is too small for 2 decimal places
+   Created: Tue Mar 17 2026
+   Link: https://trello.com/c/yzWfgFd7
+
+50. V2: A free account is displayed as Inactive and Active at the same time at different places
+   Created: Tue Mar 17 2026
+   Link: https://trello.com/c/24M5QJD5
+
+51. V2: Commissions are not rewarded as per the given formula
+   Created: Tue Mar 17 2026
+   Link: https://trello.com/c/TZ1RHGGo
+
+52. Now need to integrate api on this screen
+   Created: Tue Mar 17 2026
+   Link: https://trello.com/c/c3ycSyvE
+
+53. check members page search. unable to search phoenixxx username. recently active filter also not working properly. check for all other filter types what is working and what is not
+   Created: Tue Mar 17 2026
+   Link: https://trello.com/c/ELJNE0XT
+
+54. V2: Inactive user is able to receive, connection request
+   Created: Tue Mar 17 2026
+   Link: https://trello.com/c/QGaYZeJ2
+
+55. V2: Back button is not required in Events page
+   Created: Tue Mar 17 2026
+   Link: https://trello.com/c/FjzUmEcB
+
+56. V2: Export PDF and Export CSV buttons in My commissions are not as per branding
+   Created: Tue Mar 17 2026
+   Link: https://trello.com/c/UJ4KEtl3
+
+57. V2: Buttons within dashboard Activity feed should be fixed, even if there are no posts
+   Created: Tue Mar 17 2026
+   Link: https://trello.com/c/a5n7IFmR
+
+58. V2: An unnecessary zero (0) is displayed on dashboard
+   Created: Tue Mar 17 2026
+   Link: https://trello.com/c/etBMYdHa
+
+59. V2: 2-Factor Authenticator is not working
+   Created: Tue Mar 17 2026
+   Link: https://trello.com/c/yl6JpzLg
+
+60. V2: Only the latest 50 entries are displayed in the commissions list
+   Created: Wed Mar 18 2026
+   Link: https://trello.com/c/pB8IuH7d
+
+61. V2: Active DEED user is not able to create a new post
+   Created: Wed Mar 18 2026
+   Link: https://trello.com/c/8J6HKnxV
+
+62. V2: Extra pools present in Value share page
+   Created: Wed Mar 18 2026
+   Link: https://trello.com/c/ZWHi4Lep
+
+63. V2: Unable to view Referral link button completely
+   Created: Wed Mar 18 2026
+   Link: https://trello.com/c/aq1PQhjc
+
+64. V2: Each pool should display Total Pool Value and the number of participants at each moment
+   Created: Wed Mar 18 2026
+   Link: https://trello.com/c/8ozDSQ4m
+
+65. (Check comments) Admin: Search box is not working for these modules
+   Created: Thu Mar 19 2026
+   Link: https://trello.com/c/oISvxLh1
+
+66. Admin: Using the arrow keys forwards/Reverses the video by a very small amount of time.
+   Created: Thu Mar 19 2026
+   Link: https://trello.com/c/uOtaR1uL
+
+67. Admin: Scroll buttons are overlapping the Voucher title
+   Created: Thu Mar 19 2026
+   Link: https://trello.com/c/shbxoVEp
+
+68. V2: On Rejecting a connection request from dropdown notification menu, the accept and reject button are still there
+   Created: Thu Mar 19 2026
+   Link: https://trello.com/c/0rRkPpdu
+
+69. V2: On sending a connection request again immediately after getting rejected, no notification is given to the request recipient
+   Created: Thu Mar 19 2026
+   Link: https://trello.com/c/CfpNvvc2
+
+70. V2: Both Seed and Deed NFTs are displayed in My Assets
+   Created: Thu Mar 19 2026
+   Link: https://trello.com/c/H5qWw0vG
+
+71. V2: DAO ownership is rounded off to 4 decimal places
+   Created: Thu Mar 19 2026
+   Link: https://trello.com/c/Q52F444i
+
+72. (check comments) Activate Download Security on videos
+   Created: Mon Mar 23 2026
+   Link: https://trello.com/c/AiRT4qzE
+
+73. When clicked on export button, it should also export every user's current rank name (blue connector, orange connector, etc)
+   Created: Tue Mar 24 2026
+   Link: https://trello.com/c/R3OgbbEg
+
+74. V2: Some page titles are not displayed in the browser tab
+   Created: Tue Mar 24 2026
+   Link: https://trello.com/c/ALTc9J5f
+
+75. V2: Active seed users are displayed as inactive in there dashboard
+   Created: Tue Mar 24 2026
+   Link: https://trello.com/c/NJ0eYWxb
+
+76. V2: The Seed and Free users  should have all access to social media  features except group creation
+   Created: Tue Mar 24 2026
+   Link: https://trello.com/c/BGsStTAt
+
+77. Social Feed should be opened after login
+   Created: Tue Mar 24 2026
+   Link: https://trello.com/c/SYlJy0ft
+
+78. V2: There should be no requirement of Deed Energy for sending the connection request
+   Created: Tue Mar 24 2026
+   Link: https://trello.com/c/MzAluLRs
+
+79. when filter is applied, the css of the buttons get messed up
+   Created: Tue Mar 24 2026
+   Link: https://trello.com/c/WQqH4O3C
+
+80. V2: responsiveness issue in commission page
+   Created: Tue Mar 24 2026
+   Link: https://trello.com/c/SkooETQd
+
+81. backend error
+   Created: Wed Mar 25 2026
+   Link: https://trello.com/c/Ofz9bAzV
+
+82. V2:Another multiple Deed recently created deed holder turned to Inactive
+   Created: Wed Mar 25 2026
+   Link: https://trello.com/c/WsWoBg1b
+
+83. V2: All buttons in Value Share Page should be as per branding
+   Created: Wed Mar 25 2026
+   Link: https://trello.com/c/YIhASg2L
+
+84. V2: "Page not found' is displayed on Editing the profile details
+   Created: Wed Mar 25 2026
+   Link: https://trello.com/c/2TyW7f5z
+
+85. V2: Number of entries on a page within the commissions list is displayed as Zero(0)
+   Created: Wed Mar 25 2026
+   Link: https://trello.com/c/HwQoLrBq
+
+86. V2: Buttons present in Pool Details popup are not working
+   Created: Wed Mar 25 2026
+   Link: https://trello.com/c/FKJqCxG1
+
+87. V2: Two close buttons in Pool Details popup
+   Created: Wed Mar 25 2026
+   Link: https://trello.com/c/R463wCBk
+
+88. V2: Two buttons are not working on Value share page
+   Created: Wed Mar 25 2026
+   Link: https://trello.com/c/e0R3HxQn
+
+89. V2: Filter sticker doesn't change on changing the filter in dashboard activity feed
+   Created: Wed Mar 25 2026
+   Link: https://trello.com/c/sL5l9rJE
+
+90. V2: User is unable to verify an unverified account
+   Created: Wed Mar 25 2026
+   Link: https://trello.com/c/RvtZx3gg
+
+91. V2: Account turned inactive before the completion of one year
+   Created: Wed Mar 25 2026
+   Link: https://trello.com/c/m2wGTLtv
+
+92. V2: Country is not visible for this user
+   Created: Wed Mar 25 2026
+   Link: https://trello.com/c/Yex9ZJ6c
+
+93. This user is unable to claim her commission. pls check asap
+   Created: Thu Mar 26 2026
+   Link: https://trello.com/c/zxNzmJD9
+
+94. add the flag in the database for every user which will be called "emailVerified". if user has verified their email address then it will be marked as true
+   Created: Thu Mar 26 2026
+   Link: https://trello.com/c/zcMeaTG4
+
+95. V2: On creating post, it shows page not found. but posts get deleted.
+   Created: Sat Mar 28 2026
+   Link: https://trello.com/c/TIhgzwon
+
+96. V2: need to hide Free NFT item from voucher section
+   Created: Sat Mar 28 2026
+   Link: https://trello.com/c/kONEWsTs
+
+97. V2: need to improve search alogrithm of my commissions page. login with the account of user "hreela" and check how long it takes to scan through various pages
+   Created: Sat Mar 28 2026
+   Link: https://trello.com/c/NB66XDlj
+
+98. V2: Certain button on Dashboard are not working
+   Created: Sat Mar 28 2026
+   Link: https://trello.com/c/15SsPP5J
+
+99. V2: Export PDF and Export CSV buttons in My commissions are not as per branding
+   Created: Sat Mar 28 2026
+   Link: https://trello.com/c/zqSvw0Fn
+
+100. Admin: Dropdown menu for expiration duration is not required in Vouchers
+   Created: Sat Mar 28 2026
+   Link: https://trello.com/c/aS7U3fet
+
+101. Admin: The appearance of back arrow button in Mprojoin Admin should be consistent
+   Created: Sat Mar 28 2026
+   Link: https://trello.com/c/47Q6ixDT
+
+102. Admin: Dropdown menu inside the Voucher page should be as per branding
+   Created: Sat Mar 28 2026
+   Link: https://trello.com/c/b1vyWC1z
+
+103. V2: Value share page should have same name in the side menu
+   Created: Mon Mar 30 2026
+   Link: https://trello.com/c/aYidhqum
+
+104. V2: Number of Direct Deeds pending for next milestone is given as zero(0)
+   Created: Mon Mar 30 2026
+   Link: https://trello.com/c/8yV3IDEe
+
+105. V2: No option to remove a connection directly
+   Created: Mon Mar 30 2026
+   Link: https://trello.com/c/iLMXbAiM
+
+106. V2: DE is not Earned on various activities
+   Created: Mon Mar 30 2026
+   Link: https://trello.com/c/Kmddw2tI
+
+107. V2 & Live: Number of groups is not displayed
+   Created: Mon Mar 30 2026
+   Link: https://trello.com/c/2CKfW7NJ
+
+108. V2: Blocked user can see Activity feed
+   Created: Mon Mar 30 2026
+   Link: https://trello.com/c/Q5J4wQ2W
+
+109. V2: Need to make responsive this screen too.
+   Created: Mon Mar 30 2026
+   Link: https://trello.com/c/b6WiUSvM
+
+110. Admin: Cannot navigate to BV & QV report page
+   Created: Mon Mar 30 2026
+   Link: https://trello.com/c/esVBtEAw
+
+111. V2: Buttons inside the Ranks & Rewards page are not working
+   Created: Mon Mar 30 2026
+   Link: https://trello.com/c/Jq3aNe5T
+
+112. V2: Invalid username is displayed for connection request in certain scenarios
+   Created: Mon Mar 30 2026
+   Link: https://trello.com/c/q66DsP3M
+
+113. V2 & live: Blank post is displayed on clicking the notification after deleting a post
+   Created: Mon Mar 30 2026
+   Link: https://trello.com/c/G2Bj4x8F
+
+114. V2 & Live: Buttons in create group popup should be as per branding
+   Created: Mon Mar 30 2026
+   Link: https://trello.com/c/wWhETlS5
+
+115. V2: 'Cancel' button is visible only on mouse hover in social restricted popup
+   Created: Mon Mar 30 2026
+   Link: https://trello.com/c/IO3xPq2m
+
+116. Admin: Text on the login page is not clearly visible
+   Created: Mon Mar 30 2026
+   Link: https://trello.com/c/OPnYtv7b
+
+117. Admin: Headings of different sections should be similar in appearances
+   Created: Mon Mar 30 2026
+   Link: https://trello.com/c/hVzKz8fz
+
+118. V2: need to add withdraw button here, and test reward withdrawal workfloew
+   Created: Mon Mar 30 2026
+   Link: https://trello.com/c/zVdU7cq5
+
+119. Develop a script where we are minting NFTs for the existing users. also assign the correct NFT id in web2 for each user
+   Created: Tue Mar 31 2026
+   Link: https://trello.com/c/CFtJxI57
+
+120. Need to add a support where user can partially pay for checkout price using upto 20% of their deed energy. price of deed energy will be set by the admin
+   Created: Tue Mar 31 2026
+   Link: https://trello.com/c/X5JD86Zd
+
+121. Update nFt images and title. Free NFt will not be called free NFT, it will be called Profile NFt. Also first 1L deed nFt will be called pioneer's deed nFt and after that it will be called deed nFt. And these 1L will share the deed nft holder pool.
+   Created: Tue Mar 31 2026
+   Link: https://trello.com/c/uO57o0yJ
+
+122. add transfer ownership function in profile NFT smart contract
+   Created: Tue Mar 31 2026
+   Link: https://trello.com/c/wIKSIF5g
+
+123. V2: Account turned inactive before the completion of one year
+   Created: Wed Apr 01 2026
+   Link: https://trello.com/c/Dss864wA
+
+124. V2: Country is not visible for this user
+   Created: Wed Apr 01 2026
+   Link: https://trello.com/c/tzoUASvz
+
+125. V2: Both Seed and Deed NFTs are displayed in My Assets
+   Created: Wed Apr 01 2026
+   Link: https://trello.com/c/ZwJL4rUH
+
+126. V2: Image needed for Free NFT
+   Created: Wed Apr 01 2026
+   Link: https://trello.com/c/gFudFNGA
+
+127. V2: Unlock progress period has not started yet
+   Created: Wed Apr 01 2026
+   Link: https://trello.com/c/S9wR7Lj0
+
+128. V2: An application error keeps occurring at random times
+   Created: Wed Apr 01 2026
+   Link: https://trello.com/c/4NoM6CnC
+
+129. V2: Deed & seed users are displayed as Free user in Ranks & rewards page
+   Created: Wed Apr 01 2026
+   Link: https://trello.com/c/prdZQC6F
+
+130. V2: Username display is a bit different in some account profile page
+   Created: Wed Apr 01 2026
+   Link: https://trello.com/c/EgipQiwH
+
+131. (comments) Admin: Appearance of different lists is not consistent
+   Created: Wed Apr 01 2026
+   Link: https://trello.com/c/t65A6gjq
+
+132. V2: Total Pool amount is different than expected
+   Created: Wed Apr 01 2026
+   Link: https://trello.com/c/iS7B2cL9
+
+133. V2: New group post or discussion is not visible until reload
+   Created: Wed Apr 01 2026
+   Link: https://trello.com/c/GUnyPU5W
+
+134. Admin: Search box is not working for these modules
+   Created: Wed Apr 01 2026
+   Link: https://trello.com/c/oV1D5Y6C
+
+135. V2: Oder of "My organization" list changes randomly on coming back from another tab or after some time
+   Created: Wed Apr 01 2026
+   Link: https://trello.com/c/TQoM8eCl
+
+136. V2 Admin: Login credentials of Admin are not clearly visible
+   Created: Wed Apr 01 2026
+   Link: https://trello.com/c/4wdoibRB
+
+137. V2: User should be able to download commission history in excel file
+   Created: Wed Apr 01 2026
+   Link: https://trello.com/c/tdqeYGIs
+
+138. V2: Onclicking accept group invitation, when opening the group page, getting this error
+   Created: Thu Apr 02 2026
+   Link: https://trello.com/c/VEIFOn76
+
+139. need to integrated polygon withdrawal on these buttons. currently it has venom withdrawal logic
+   Created: Thu Apr 02 2026
+   Link: https://trello.com/c/gRlLiveC
+
+140. The cart should only have 1 product before checkout. Need to restrict user from adding more than 1 item to cart before checkout
+   Created: Thu Apr 02 2026
+   Link: https://trello.com/c/YOFTiqZ8
+
+141. display these 2 containers only when "enable DE payment" switch is on
+   Created: Fri Apr 03 2026
+   Link: https://trello.com/c/jDm5fnCg
+
+142. Before merging v2 with main, prepare a script that will convert all v1 users compatible to v2
+   Created: Fri Apr 03 2026
+   Link: https://trello.com/c/I0TqhvqE
+
+143. need to add AWS secret manager for importing private keys in backend instead of .env file
+   Created: Fri Apr 03 2026
+   Link: https://trello.com/c/leiWeNCe
+
+144. when user redeems a voucher purchased by another user, the commissions should distribute when it is being redeemed
+   Created: Fri Apr 03 2026
+   Link: https://trello.com/c/5OV6QJXT
+
+145. need to delete duplicate entries of NFT minting in order table
+   Created: Sat Apr 04 2026
+   Link: https://trello.com/c/xNY5pNaX
+
+146. Only deed user in the geanealogy page should have "active/inactive" status. for seed and free users dont need to show active/inactive
+   Created: Sat Apr 04 2026
+   Link: https://trello.com/c/Is6B6VZh
+
+147. V2: Free user becomes a member of Star 1 and Star 2 pool
+   Created: Sat Apr 04 2026
+   Link: https://trello.com/c/0WQk4PY0
+
+148. V2: name of the Pool page should be changed to "Value share rewards"
+   Created: Sat Apr 04 2026
+   Link: https://trello.com/c/UajEpOyt
+
+149. V2: Seed user became a part of Star 1 & 2 pool before Deed pool
+   Created: Sat Apr 04 2026
+   Link: https://trello.com/c/H7UvvLRC
+
+150. V2: One seed user is displayed as active and other as inactive in the same genealogy page
+   Created: Sat Apr 04 2026
+   Link: https://trello.com/c/ZQjHaned
+
+151. V2: Purchased Voucher is minted as NFT in a user's account without applying
+   Created: Sat Apr 04 2026
+   Link: https://trello.com/c/X9Q5T3IQ
+
+152. V2 Admin: Separate Pool report pages should be added as per the latest design
+   Created: Sat Apr 04 2026
+   Link: https://trello.com/c/tLn4bj0Z
+
+153. V2: Deed Energy sent on discount is not displayed in Energy history
+   Created: Sat Apr 04 2026
+   Link: https://trello.com/c/qMt8d3ij
+
+154. V2: Current Locked value and Next unlock date is not displayed in Ranks and Rewards page
+   Created: Sat Apr 04 2026
+   Link: https://trello.com/c/ahjI4O37
+
+155. V2: No requirement of two columns in Order history
+   Created: Sat Apr 04 2026
+   Link: https://trello.com/c/1YNelX6y
+
+156. V2: Shortcut icon in Commission page should lead to Pool page
+   Created: Sat Apr 04 2026
+   Link: https://trello.com/c/yjcv85yG
+
+157. V2: store page and product details page appearance should be as per latest design
+   Created: Sat Apr 04 2026
+   Link: https://trello.com/c/W2D6qDdw
+
+158. V2: Free/Seed user should be upgraded to a Deed holder after 10 Deed direct downline
+   Created: Sat Apr 04 2026
+   Link: https://trello.com/c/WARFIzoj
+
+159. V2: Seed user should not be displayed as Active
+   Created: Tue Apr 07 2026
+   Link: https://trello.com/c/ZG7IwW0z
+
+160. Admin V2: Message should be displayed, instead of Error, if 2FA is already disabled
+   Created: Tue Apr 07 2026
+   Link: https://trello.com/c/eZMo8ifz
+
+161. V2 Admin: Name of the recipient user should be displayed for redeemed voucher
+   Created: Tue Apr 07 2026
+   Link: https://trello.com/c/pojH3Kla
+
+162. V2 Admin: There should be some margin under the page number on voucher status page
+   Created: Tue Apr 07 2026
+   Link: https://trello.com/c/t7giMo4g
+
+163. V2: Two explore groups buttons on dashboard, one needs to be removed
+   Created: Tue Apr 07 2026
+   Link: https://trello.com/c/wiYo75xh
+
+164. Admin V2: Wallet ID filter is not working in transaction report
+   Created: Tue Apr 07 2026
+   Link: https://trello.com/c/YkmjhJUt
+
+165. V2: Post created by blocker should immediately disappear after blocking
+   Created: Tue Apr 07 2026
+   Link: https://trello.com/c/YBXKCT5G
+
+166. Admin: Search box is not working for these modules
+   Created: Tue Apr 07 2026
+   Link: https://trello.com/c/sL0mRkiP
+
+167. V2: A different username is displayed with the profile picture
+   Created: Tue Apr 07 2026
+   Link: https://trello.com/c/wyQZOM7z
+
+168. V2: Certain button on Dashboard are not working
+   Created: Tue Apr 07 2026
+   Link: https://trello.com/c/74SSlDDN
+
+169. V2: Number of Direct Deeds pending for next milestone is given as zero(0)
+   Created: Tue Apr 07 2026
+   Link: https://trello.com/c/MZzYFSbY
+
+170. V2: A particular seed user is displayed as a Free user in Ranks and reward page
+   Created: Tue Apr 07 2026
+   Link: https://trello.com/c/hKzaBj5s
+
+171. V2: Value share page should have same name in the side menu
+   Created: Tue Apr 07 2026
+   Link: https://trello.com/c/ad4gvsmv
+
+172. V2: Pool transaction should have 8 decimal places
+   Created: Tue Apr 07 2026
+   Link: https://trello.com/c/Nnxx9JYL
+
+173. V2: Older than 5 pages of transactions are not displayed in Pool transaction history
+   Created: Tue Apr 07 2026
+   Link: https://trello.com/c/703TeHID
+
+174. V2: create a new page on user side for deed energy report.
+   Created: Tue Apr 07 2026
+   Link: https://trello.com/c/YdMyWhqf
+
+175. a user "seedmain" account swapped from seed to deed when his downlines had 10 deed user. but the deed nft order was assigned to a differnt user "seed10"
+   Created: Tue Apr 07 2026
+   Link: https://trello.com/c/qqXmPMbo
+
+176. V2: Number of pools in the liquidity pools is displayed as zero
+   Created: Wed Apr 08 2026
+   Link: https://trello.com/c/cRroKDqE
+
+177. V2: In the pool details popup, the number of remaining members should be displayed
+   Created: Wed Apr 08 2026
+   Link: https://trello.com/c/IEjrdd2W
+
+178. V2: 'Refer more DEEDs' should be written instead of 'DEED'
+   Created: Wed Apr 08 2026
+   Link: https://trello.com/c/5FHVhezs
+
+179. V2: Description of Rank Progression guide should be customized as per every user
+   Created: Wed Apr 08 2026
+   Link: https://trello.com/c/M1ENiPCv
+
+180. V2: Font and other details in all pages should follow the standardized brand guide
+   Created: Wed Apr 08 2026
+   Link: https://trello.com/c/ZS1oZNzA
+
+181. V2: Name of 'Rank Progression Guide' to changed to 'Progression Guide' and steps to be corrected
+   Created: Wed Apr 08 2026
+   Link: https://trello.com/c/I0UmVPqo
+
+182. V2: Headings and Text in Ranks and Rewards page should be of same font and size
+   Created: Wed Apr 08 2026
+   Link: https://trello.com/c/PmQfuT6w
+
+183. V2: Side Menu should contain collapsible categories
+   Created: Wed Apr 08 2026
+   Link: https://trello.com/c/MBvULxs9
+
+184. V2: name of vertical "Rank Ladder" should be changed to "Pool Status"
+   Created: Wed Apr 08 2026
+   Link: https://trello.com/c/N8ROTEVM
+
+185. V2: Name of horizontal "Rank ladder" should be changed to "Profile Status"
+   Created: Wed Apr 08 2026
+   Link: https://trello.com/c/Nn4eEs1y
+
+186. V2: "Ranks and Rewards" should be changed to "Rewards"
+   Created: Wed Apr 08 2026
+   Link: https://trello.com/c/uAsHrBHe
+
+187. V2: Web3 NFT tree should show transaction hash as well
+   Created: Wed Apr 08 2026
+   Link: https://trello.com/c/TRTwIaCZ
+
+188. V2: 'My DAO Ownership' to be changed to 'My Value Share'
+   Created: Wed Apr 08 2026
+   Link: https://trello.com/c/Pk6VBDQd
+
+189. V2: Name of Activity Feed in Dashboard to be changed to "Social Notifications"
+   Created: Wed Apr 08 2026
+   Link: https://trello.com/c/bZ6T59b7
+
+190. V2: 'Create Post' button on Dashboard to be changed to 'MproChat'
+   Created: Wed Apr 08 2026
+   Link: https://trello.com/c/pQen1hFl
+
+191. V2: "Activity Feed" page should be changed to "MproChat"
+   Created: Wed Apr 08 2026
+   Link: https://trello.com/c/bSqrvxLr
+
+192. V2: Dashboard activity feed should also contain Member Group post
+   Created: Wed Apr 08 2026
+   Link: https://trello.com/c/ACLN5ijl
+
+193. V2: Rank should be changed to Star level
+   Created: Wed Apr 08 2026
+   Link: https://trello.com/c/WNRf7TdO
+
+194. V2: Name of the next star level should be displayed instead of "Next milestone"
+   Created: Wed Apr 08 2026
+   Link: https://trello.com/c/e6Whf83w
+
+195. V2: Stars of Direct deeds required for next milestone should be displayed in grey initially
+   Created: Wed Apr 08 2026
+   Link: https://trello.com/c/OcmTQgib
+
+196. V2: Same Pool names to be used at every place
+   Created: Wed Apr 08 2026
+   Link: https://trello.com/c/sHT8of8C
+
+197. New user when buying first time, he has no deed energy. he is unable to checkout because he has no deed energy.
+   Created: Wed Apr 08 2026
+   Link: https://trello.com/c/NeizYZtb
+
+198. Admin is crashing for opening certain user profiles
+   Created: Wed Apr 08 2026
+   Link: https://trello.com/c/mOADw4N3
+
+199. page for ABL details is incorrect. it should be as per old design
+   Created: Thu Apr 09 2026
+   Link: https://trello.com/c/RMSjGdF2
+
+200. V2: back button doesnt work in deed energy details page
+   Created: Thu Apr 09 2026
+   Link: https://trello.com/c/aPptA1Fi
+
+201. Develop a forced ranks logic in admin panel. Admin will be able to give forced ranks to deed users. He would be able to upgrade or downgrade their ranks even though the criteria is not fulfilled. Make sure forced ranks are only for deed users only. For all the forced ranks, make a entry saying "forced rank granted" in rank table.
+   Created: Fri Apr 10 2026
+   Link: https://trello.com/c/CtI1kidA
+
+202. V2: Different message should be displayed for Free seed and star 3 under Next milestone
+   Created: Fri Apr 10 2026
+   Link: https://trello.com/c/nWV6Vjcb
+
+203. V2: Buttons in redirecting popup for mprolearn is not as per branding
+   Created: Fri Apr 10 2026
+   Link: https://trello.com/c/p0hWNzwR
+
+204. V2: name of the Pool page should be changed to "Value share rewards"
+   Created: Fri Apr 10 2026
+   Link: https://trello.com/c/a7FNSHHV
+
+205. V2: A post containing text, image and video is displayed only in video filter
+   Created: Fri Apr 10 2026
+   Link: https://trello.com/c/8hxrAgXn
+
+206. V2: Cancel button in schedule post pop-up is not clearly visible until pointer hover
+   Created: Fri Apr 10 2026
+   Link: https://trello.com/c/wYQyY2yI
+
+207. V2: No NFT is displayed as asset
+   Created: Fri Apr 10 2026
+   Link: https://trello.com/c/cuXT0t3M
+
+208. V2: Unable to upload Profile or cover images while creating group
+   Created: Fri Apr 10 2026
+   Link: https://trello.com/c/KQSjHzcJ
+
+209. V2: Unable to upload documents inside a group
+   Created: Fri Apr 10 2026
+   Link: https://trello.com/c/wNMIX17o
+
+210. V2: Group Discussion comment and description text area should be fixed
+   Created: Fri Apr 10 2026
+   Link: https://trello.com/c/hLF46NTl
+
+211. V2: Wrong message is displayed in the next best action
+   Created: Fri Apr 10 2026
+   Link: https://trello.com/c/rR06MY4u
+
+212. V2: Stars in 'Next best action' should be displayed in middle
+   Created: Fri Apr 10 2026
+   Link: https://trello.com/c/Uym8o8hg
+
+213. V2: Star Level should be directly under its heading just like other boxes
+   Created: Fri Apr 10 2026
+   Link: https://trello.com/c/kCNTUntB
+
+214. V2: Source user and Product name is not completely visible in commissions table
+   Created: Fri Apr 10 2026
+   Link: https://trello.com/c/xll1wrON
+
+215. V2: All table headers and filter names should start with uppercase
+   Created: Fri Apr 10 2026
+   Link: https://trello.com/c/DoROXNX2
+
+216. V2: "Activity Feed" name should also be changed from URL path and page title
+   Created: Fri Apr 10 2026
+   Link: https://trello.com/c/EVYMSBHi
+
+217. Admin V2: Extra messages displayed in the Gift Code page
+   Created: Fri Apr 10 2026
+   Link: https://trello.com/c/UUFo1yCi
+
+218. Admin V2: The following buttons and popups should be as per brand guide
+   Created: Fri Apr 10 2026
+   Link: https://trello.com/c/m13ORMv5
+
+219. V2: Module dropdown in side menu bar should remain expanded when a page inside them is opened
+   Created: Fri Apr 10 2026
+   Link: https://trello.com/c/s5Y8tpbZ
+
+220. page not found happening after refresh
+   Created: Fri Apr 10 2026
+   Link: https://trello.com/c/YQvPvNY8
+
+221. image.png
+   Created: Fri Apr 10 2026
+   Link: https://trello.com/c/GAmsbQvE
+
+222. show half username in web3 nft tree then ... can be added as the postfix
+   Created: Fri Apr 10 2026
+   Link: https://trello.com/c/ycfxhyK0
+
+223. Need to seperate mprofy landing page and mprofy web application in seperate repos
+   Created: Sun Apr 12 2026
+   Link: https://trello.com/c/ZM0VYjkP
+
+224. When a deed user’s abl expires, his parent’s count of total deed holders in firstlines should also reduce.
+   Created: Mon Apr 13 2026
+   Link: https://trello.com/c/x2kdMRYK
+
+225. V2: Website pages are loading very slowly
+   Created: Mon Apr 13 2026
+   Link: https://trello.com/c/71bKE1bE
+
+226. (comments) Admin: Appearance of different lists is not consistent
+   Created: Mon Apr 13 2026
+   Link: https://trello.com/c/sKN1MnBg
+
+227. (Comments)V2: An application error keeps occurring at random times
+   Created: Mon Apr 13 2026
+   Link: https://trello.com/c/9v9Es8fJ
+
+228. V2 Admin: QV details are no longer required in BV/QV report page
+   Created: Mon Apr 13 2026
+   Link: https://trello.com/c/fqkCcGcP
+
+229. V2: Vouchers are not properly aligned in store
+   Created: Mon Apr 13 2026
+   Link: https://trello.com/c/aRGnO2g4
+
+230. V2: Show number of days left for active subscription in dashboard
+   Created: Mon Apr 13 2026
+   Link: https://trello.com/c/5P3TdDa2
+
+231. V2: No colon should be used in the Dashboard boxes
+   Created: Mon Apr 13 2026
+   Link: https://trello.com/c/dzFS5UUP
+
+232. V2: Page title of Rewards page should be changed
+   Created: Mon Apr 13 2026
+   Link: https://trello.com/c/fRf8WwQo
+
+233. V2 Admin: Admin is able to enter DE discount as 100%
+   Created: Mon Apr 13 2026
+   Link: https://trello.com/c/PKIuehAN
+
+234. V2: "Value share rewards" name in side menu should be in one-line
+   Created: Mon Apr 13 2026
+   Link: https://trello.com/c/fOiZft5S
+
+235. Admin V2: No DE record of many actions that have been completed by many users
+   Created: Mon Apr 13 2026
+   Link: https://trello.com/c/G4Q6FrMX
+
+236. V2: Value Share rewards page is empty
+   Created: Mon Apr 13 2026
+   Link: https://trello.com/c/YVxRkLpJ
+
+237. V2: Total Deed Energy should be displayed on Dashboard in place of Active pools box
+   Created: Mon Apr 13 2026
+   Link: https://trello.com/c/ZQ1tg1L5
+
+238. Need to add more attributes to this metadata like parent id, and other details
+   Created: Mon Apr 13 2026
+   Link: https://trello.com/c/e6DhEO9D
+
+239. (check comments) V2: DE is not Earned on various activities
+   Created: Tue Apr 14 2026
+   Link: https://trello.com/c/NQTFB6Eg
+
+240. V2: Deed energy is deducted for a newly created account
+   Created: Tue Apr 14 2026
+   Link: https://trello.com/c/lPvpIZ8L
+
+241. Admin V2: Actions in the Description dropdown are not clearly visible on Deed energy page
+   Created: Tue Apr 14 2026
+   Link: https://trello.com/c/0EESAJsS
+
+242. V2: 2000 Deed Energy should be reduced for creating a group
+   Created: Tue Apr 14 2026
+   Link: https://trello.com/c/LE4ETEUC
+
+243. V2: Pool status filter is not present in the list
+   Created: Tue Apr 14 2026
+   Link: https://trello.com/c/zXagTQuQ
+
+244. V2: Pool filter is not working in Pool transaction history
+   Created: Tue Apr 14 2026
+   Link: https://trello.com/c/gBrGjiTP
+
+245. V2: Filters in My Organization list are old
+   Created: Tue Apr 14 2026
+   Link: https://trello.com/c/Oo5JpM3n
+
+246. V2: Search button not working in pool rewards list
+   Created: Tue Apr 14 2026
+   Link: https://trello.com/c/oopX9vpM
+
+247. V2: Wrong spelling of MproStore
+   Created: Tue Apr 14 2026
+   Link: https://trello.com/c/oUWqTuLB
+
+248. V2: All table headers and filter names should start with uppercase
+   Created: Tue Apr 14 2026
+   Link: https://trello.com/c/WCCyBbAN
+
+249. V2 Admin: Name of the recipient user should be displayed for redeemed voucher
+   Created: Tue Apr 14 2026
+   Link: https://trello.com/c/aUTRmK3o
+
+250. (check comments) V2: A different username is displayed with the profile picture
+   Created: Tue Apr 14 2026
+   Link: https://trello.com/c/VnmmAC3r
+
+251. V2: Two export csv buttons are given in Pool transaction list
+   Created: Tue Apr 14 2026
+   Link: https://trello.com/c/GR5fYaR7
+
+252. Admin V2: Update course popup should be as per branding
+   Created: Tue Apr 14 2026
+   Link: https://trello.com/c/XcO8DtiC
+
+253. Admin V2: Create New course popup should be as per branding
+   Created: Tue Apr 14 2026
+   Link: https://trello.com/c/WUBemgeU
+
+254. V2: Add more shadow and color contrast for the boxes in the liquidity pool
+   Created: Tue Apr 14 2026
+   Link: https://trello.com/c/9m6NYrcI
+
+255. Admin V2: Two toaster messages are displayed on deleting a chapter or a quiz
+   Created: Tue Apr 14 2026
+   Link: https://trello.com/c/TAeAAkqo
+
+256. V2: Amount sorting feature is not working
+   Created: Tue Apr 14 2026
+   Link: https://trello.com/c/crjUcGKY
+
+257. Admin V2: No DE record of many actions that have been completed by many users
+   Created: Tue Apr 14 2026
+   Link: https://trello.com/c/YN9WiytM
+
+258. Admin V2: Dates entered in the filter are not being displayed in the Transaction report
+   Created: Tue Apr 14 2026
+   Link: https://trello.com/c/zDzUVOMI
+
+259. V2: Search box and filter is not working in Liquidity pools
+   Created: Tue Apr 14 2026
+   Link: https://trello.com/c/927tIJ5F
+
+260. V2: Name sort filter is not required in the Liquidity pools
+   Created: Tue Apr 14 2026
+   Link: https://trello.com/c/BylDsNbx
+
+261. V2: Proper names of the pools should be used
+   Created: Tue Apr 14 2026
+   Link: https://trello.com/c/xDVO31xJ
+
+262. Admin V2: Balance filter is not working properly in DE report
+   Created: Tue Apr 14 2026
+   Link: https://trello.com/c/PkdMRM3F
+
+263. V2: The Web3 link in the WEb3 NFT tree should lead to OpenSea instead of polygonscan
+   Created: Tue Apr 14 2026
+   Link: https://trello.com/c/C2wBzmxm
+
+264. V2: Letter case should be corrected in 'Type' filter in "My Commissions" page
+   Created: Tue Apr 14 2026
+   Link: https://trello.com/c/EkngWt51
+
+265. create a script for migrating database collections from v1 to v2. IT include new user properties, ABL, ranks data, commissions, orders table, etc
+   Created: Tue Apr 14 2026
+   Link: https://trello.com/c/HRElkxkh
+
+266. Web3 script for migrating  from v1 to v2
+   Created: Tue Apr 14 2026
+   Link: https://trello.com/c/ChrbMtJx
+
+267. Rank updator/downgrader should not working for forced ranks. Also all ranks either forced or normal should be given seed access if ABL expired 
+   Created: Tue Apr 14 2026
+   Link: https://trello.com/c/pa3aXCGW
+
+268. V2 : clear button supposed to be white,
+   Created: Tue Apr 14 2026
+   Link: https://trello.com/c/tn3SuyCb
+
+269. V2 : Pagination should be correct. Page number is being repeated.
+   Created: Tue Apr 14 2026
+   Link: https://trello.com/c/vxXhewbq
+
+270. (check comments) V2: Image needed for Free NFT
+   Created: Wed Apr 15 2026
+   Link: https://trello.com/c/sbbWJ0Mv
+
+271. V2 Admin: All admin pages are empty and showing network error
+   Created: Wed Apr 15 2026
+   Link: https://trello.com/c/iMS2mZTL
+
+272. V2: No need for "Type" column in Pool transaction list.
+   Created: Wed Apr 15 2026
+   Link: https://trello.com/c/yF3MXMuW
+
+273. V2: Unable to upload documents inside a group
+   Created: Wed Apr 15 2026
+   Link: https://trello.com/c/4sBFoj13
+
+274. Admin V2: Wallet ID filter is not working in transaction report
+   Created: Wed Apr 15 2026
+   Link: https://trello.com/c/qlLNB0hs
+
+275. V2: Web3 NFT tree should show transaction hash as well
+   Created: Wed Apr 15 2026
+   Link: https://trello.com/c/Z7acHWO2
+
+276. (comments) V2: Only one product should be purchased at a time
+   Created: Wed Apr 15 2026
+   Link: https://trello.com/c/2zGxoXcN
+
+277. V2: No NFT is displayed as asset
+   Created: Wed Apr 15 2026
+   Link: https://trello.com/c/8wNUaN02
+
+278. V2: Extra dropdown is present in side menu for free user
+   Created: Wed Apr 15 2026
+   Link: https://trello.com/c/3VJkPfBU
+
+279. (comments) V2: store page and product details page appearance should be as per latest design
+   Created: Wed Apr 15 2026
+   Link: https://trello.com/c/IiyZYhRe
+
+280. (comments) Admin: Search box is not working for these modules
+   Created: Wed Apr 15 2026
+   Link: https://trello.com/c/eCHM3lXc
+
+281. (comments)V2: In the pool details popup, the number of remaining members should be displayed
+   Created: Wed Apr 15 2026
+   Link: https://trello.com/c/n1Jekxz3
+
+282. Application error in groups
+   Created: Wed Apr 15 2026
+   Link: https://trello.com/c/bOcbd6NU
+
+283. V2: Some pages are not properly displayed when page is zoomed-in
+   Created: Wed Apr 15 2026
+   Link: https://trello.com/c/DftTz0jg
+
+284. (also check comments) V2: Different message should be displayed for Free seed and star 3 under Next milestone
+   Created: Wed Apr 15 2026
+   Link: https://trello.com/c/S7YtgrGY
+
+285. V2: Description of Rank Progression guide should be customized as per every user
+   Created: Wed Apr 15 2026
+   Link: https://trello.com/c/qHnvGIAt
+
+286. V2: Package cards in store should be of same size
+   Created: Wed Apr 15 2026
+   Link: https://trello.com/c/uAiJ6axH
+
+287. V2: Buy package button should not be displayed after purchasing a course
+   Created: Wed Apr 15 2026
+   Link: https://trello.com/c/QC3jub6S
+
+288. V2: Price should be displayed in the center
+   Created: Wed Apr 15 2026
+   Link: https://trello.com/c/tDzsjNuP
+
+289. V2 and live: No module named MproMore
+   Created: Wed Apr 15 2026
+   Link: https://trello.com/c/MzgHRftS
+
+290. Admin V2: Dropdown for Pool reports should be named as Value share
+   Created: Thu Apr 16 2026
+   Link: https://trello.com/c/f1N5GVFx
+
+291. Admin V2: Pool name is not required under pool breakdown
+   Created: Thu Apr 16 2026
+   Link: https://trello.com/c/nmsQuU2r
+
+292. Admin V2: Name of the Deed pool should be changed to Pioneer pool
+   Created: Thu Apr 16 2026
+   Link: https://trello.com/c/GVxuDx9I
+
+293. Admin V2: DE discount % changes automatically
+   Created: Thu Apr 16 2026
+   Link: https://trello.com/c/lSiQE1Fg
+
+294. (comments) Admin V2: The following buttons and popups should be as per brand guide
+   Created: Thu Apr 16 2026
+   Link: https://trello.com/c/MTOBlWBV
+
+295. V2: Can't login to a newly created account
+   Created: Thu Apr 16 2026
+   Link: https://trello.com/c/MQ3WipJR
+
+296. (comments) V2: A different username is displayed with the profile picture
+   Created: Thu Apr 16 2026
+   Link: https://trello.com/c/v4OSRQRy
+
+297. V2: "upgrade now" button is not  in store
+   Created: Thu Apr 16 2026
+   Link: https://trello.com/c/zGd9vEPZ
+
+298. (check comments) V2 Admin: Name of the recipient user should be displayed for redeemed voucher
+   Created: Thu Apr 16 2026
+   Link: https://trello.com/c/D8JlRcAF
+
+299. Animation and png image for nft metadata is incorrect. Use updated images and videos. Also conquest should be replaced by pioneer nft collection.
+   Created: Thu Apr 16 2026
+   Link: https://trello.com/c/umju5x2A
+
+300. V2: The number of stars equal to Direct deeds left for next milestone should be grey in colour
+   Created: Thu Apr 16 2026
+   Link: https://trello.com/c/qK3j5nni
+
+301. V2: Proper names of the pools should be used
+   Created: Thu Apr 16 2026
+   Link: https://trello.com/c/HjemK2cO
+
+302. V2: character limit is not being counted for posts and discussion
+   Created: Thu Apr 16 2026
+   Link: https://trello.com/c/Bj7ShP3M
+
+303. V2: Same Pool names to be used at every place
+   Created: Thu Apr 16 2026
+   Link: https://trello.com/c/QEgE2Fwh
+
+304. V2 Admin: Redeemed voucher code is not updated until reloading the page
+   Created: Thu Apr 16 2026
+   Link: https://trello.com/c/dhj5RKn8
+
+305. V2: Filters should be present just above the list
+   Created: Fri Apr 17 2026
+   Link: https://trello.com/c/kPl4eTdY
+
+306. Admin V2: Date entered in last date is not displayed in voucher status
+   Created: Fri Apr 17 2026
+   Link: https://trello.com/c/KFwZcVSd
+
+307. V2: Product section disappears completely on entering invalid product name
+   Created: Fri Apr 17 2026
+   Link: https://trello.com/c/iGSidkcQ
+
+308. V2: Sorting icon not working in commission page
+   Created: Fri Apr 17 2026
+   Link: https://trello.com/c/VFyZTapd
+
+309. V2: No such status as a lead
+   Created: Fri Apr 17 2026
+   Link: https://trello.com/c/LnA4nFzI
+
+310. V2: Side Scroll bar of My Organization should be clearly visible
+   Created: Fri Apr 17 2026
+   Link: https://trello.com/c/dHhcfEVY
+
+311. V2: Status filter in commission is written as Active and Inactive
+   Created: Fri Apr 17 2026
+   Link: https://trello.com/c/W5fpHsE7
+
+312. V2: Value share should be displayed instead of Next treasury unlock in Dashboard
+   Created: Fri Apr 17 2026
+   Link: https://trello.com/c/Mc98ZUkn
+
+313. V2: Mprojoin50 package is displayed in Vouchers
+   Created: Fri Apr 17 2026
+   Link: https://trello.com/c/EmwcXtST
+
+314. V2: One voucher is not displayed under the Vouchers section but is displayed on scrolling side ways from another voucher
+   Created: Fri Apr 17 2026
+   Link: https://trello.com/c/ZpxdqrYw
+
+315. V2: Date filter is not showing the current date
+   Created: Fri Apr 17 2026
+   Link: https://trello.com/c/RIqpPEbi
+
+316. V2: the next date registration is also displayed for a particular date in organization chart filter
+   Created: Fri Apr 17 2026
+   Link: https://trello.com/c/rbJTs9OV
+
+317. (check all attachments images) V2: user is able to select later date on start date
+   Created: Fri Apr 17 2026
+   Link: https://trello.com/c/EpN0b442
+
+318. Admin V2: Popup should be displayed for individual pool earnings of a user
+   Created: Fri Apr 17 2026
+   Link: https://trello.com/c/VPWzunVS
+
+319. V2 Admin: There is no such status as 'DeActive'
+   Created: Fri Apr 17 2026
+   Link: https://trello.com/c/Wh9xiJbi
+
+320. Admin V2: No need of Rank filter and column for Star-3
+   Created: Fri Apr 17 2026
+   Link: https://trello.com/c/wTZYb9ks
+
+321. Admin V2: No need of Rank filter and column for Star-3
+   Created: Fri Apr 17 2026
+   Link: https://trello.com/c/fDgKJjAh
+
+322. V2: Direct deed message and stars should not be displayed for seed and free user on dashboard
+   Created: Fri Apr 17 2026
+   Link: https://trello.com/c/JpJaFe4f
+
+323. V2: Free/Seed user should be upgraded to a Deed holder after 10 Deed direct downline
+   Created: Fri Apr 17 2026
+   Link: https://trello.com/c/qGeIAf6m
+
+324. Need to make a script for multi deed NFT holders (Constellation buyers)
+   Created: Fri Apr 17 2026
+   Link: https://trello.com/c/0qDYLAlu
+
+325. allow the domain "web2.mprofy.com" to make requests to backend
+   Created: Sat Apr 18 2026
+   Link: https://trello.com/c/BByE0o2F
+
+326. Admin V2: Create New course popup should be as per branding
+   Created: Sat Apr 18 2026
+   Link: https://trello.com/c/9Ma5Cv7F
+
+327. Admin V2: Update course popup should be as per branding
+   Created: Sat Apr 18 2026
+   Link: https://trello.com/c/7MGig5eS
+
+328. (check comments) V2: Filters in My Organization list are old
+   Created: Sat Apr 18 2026
+   Link: https://trello.com/c/0sYXl5qD
+
+329. (check comments) V2: Total Pool amount is different than expected
+   Created: Sat Apr 18 2026
+   Link: https://trello.com/c/Avsj4CMA
+
+330. V2: Deed Energy sent on discount is not displayed in Energy history
+   Created: Sat Apr 18 2026
+   Link: https://trello.com/c/mU2avfNG
+
+331. (check comments) V2: An application error keeps occurring at random times
+   Created: Sat Apr 18 2026
+   Link: https://trello.com/c/nUUhOUjO
+
+332. (check comments) V2: Unable to upload documents inside a group
+   Created: Sat Apr 18 2026
+   Link: https://trello.com/c/CEjKvqxp
+
+333. Admin V2: DE earn and spending actions to be up to date
+   Created: Sat Apr 18 2026
+   Link: https://trello.com/c/YKdAMVA6
+
+334. V2: Username should be displayed instead of Nickame
+   Created: Sat Apr 18 2026
+   Link: https://trello.com/c/n7VyILmJ
+
+335. V2: More than required deed energy is applied for discount on clicking use max discount allowed
+   Created: Sat Apr 18 2026
+   Link: https://trello.com/c/qPjOpjbL
+
+336. V2: For a particular account more than 100% discount is applied
+   Created: Sat Apr 18 2026
+   Link: https://trello.com/c/L5QVrFNC
+
+337. V2: User is led to log-in page on pressing back button
+   Created: Sat Apr 18 2026
+   Link: https://trello.com/c/JsGzQUS8
+
+338. V2: No trace of a voucher redeemed by a particular account
+   Created: Sat Apr 18 2026
+   Link: https://trello.com/c/a6h0rjlO
+
+339. (check comments) V2: 2000 Deed Energy should be reduced for creating a group
+   Created: Sat Apr 18 2026
+   Link: https://trello.com/c/y9E4RHjo
+
+340. (comments)V2: No NFT is displayed as asset
+   Created: Sat Apr 18 2026
+   Link: https://trello.com/c/y0HpTddy
+
+341. Admin V2: Deed energy earned from packages is not mentioned in the description filter
+   Created: Sat Apr 18 2026
+   Link: https://trello.com/c/FdB09425
+
+342. (comments) V2: DE is not Earned on various activities
+   Created: Sat Apr 18 2026
+   Link: https://trello.com/c/AOmhU6ex
+
+343. (comments) V2: Module dropdown in side menu bar should remain expanded when a page inside them is opened
+   Created: Sat Apr 18 2026
+   Link: https://trello.com/c/k42qDmnx
+
+344. V2 Admin: There is no User-id in BV report
+   Created: Sat Apr 18 2026
+   Link: https://trello.com/c/nvKMgliJ
+
+345. V2 Admin: No requirement of BV checkbox in BV report page
+   Created: Sat Apr 18 2026
+   Link: https://trello.com/c/2Uwq6hJd
+
+346. (comments) Admin V2: Message should be displayed, instead of Error, if 2FA is already disabled
+   Created: Sat Apr 18 2026
+   Link: https://trello.com/c/6HcMBznC
+
+347. V2 Admin: Founder NFT is purchased by a user in BV report
+   Created: Sat Apr 18 2026
+   Link: https://trello.com/c/5hYuEDVS
+
+348. V2 Admin and User: In any range filter, user shouldn't be able to enter larger value in starting value
+   Created: Sat Apr 18 2026
+   Link: https://trello.com/c/Rbad9WWX
+
+349. V2 Admin: On entering same date in both start and end date, no data is displayed for that date
+   Created: Sat Apr 18 2026
+   Link: https://trello.com/c/EEEKoJa4
+
+350. V2 Admin: an empty toaster message is displayed while uploading a course
+   Created: Sat Apr 18 2026
+   Link: https://trello.com/c/478fatbY
+
+351. V2 Admin: New chapter popup should be as per branding
+   Created: Sat Apr 18 2026
+   Link: https://trello.com/c/pduQxXWQ
+
+352. V2 Admin: Submit button should be at the bottom-right of Add chapter popup
+   Created: Sat Apr 18 2026
+   Link: https://trello.com/c/csKgCTNk
+
+353. V2: Pioneer pool report to be added
+   Created: Sun Apr 19 2026
+   Link: https://trello.com/c/gwZX5mmL
+
+354. V2: Need to integrate Data for Deed energy and pool reports on user side
+   Created: Mon Apr 20 2026
+   Link: https://trello.com/c/kOlgj95u
+
+355. Need to improve Deed energy schema. what is the purpose of the "Add option". need to handle various types of deed energy.
+   Created: Mon Apr 20 2026
+   Link: https://trello.com/c/JZ5RcAd7
+
+356. V2: Product details text on the left side should be as similar as Figma.
+   Created: Mon Apr 20 2026
+   Link: https://trello.com/c/WTvlwYPH
+
+357. Do not create pointTransation on Created post with text
+   Created: Mon Apr 20 2026
+   Link: https://trello.com/c/YS9z017Z
+
+358. Forced rank feature should allow user to upgrade rank based rank engine but it cannot let you downgrade the rank. Normal rank should only be given to forced rank if and only if higher rank eligibility is achived by that user.
+   Created: Mon Apr 20 2026
+   Link: https://trello.com/c/fznCiDeD
+
+359. V2: Edit profile UI should be as per the latest branding. Also remove QV details from this popup as such numbers are not required in V2.
+   Created: Mon Apr 20 2026
+   Link: https://trello.com/c/3BCxCuE2
+
+360. V2 Admin: Rank filter and column to be changed to Star level
+   Created: Mon Apr 20 2026
+   Link: https://trello.com/c/xOFSZDSs
+
+361. (check comments) V2: Web3 NFT tree should show transaction hash as well
+   Created: Mon Apr 20 2026
+   Link: https://trello.com/c/TqTCBUm9
+
+362. V2: Status column should be in Title case
+   Created: Tue Apr 21 2026
+   Link: https://trello.com/c/Q9PeyTxB
+
+363. (comments) V2: User is led to log-in page on pressing back button
+   Created: Tue Apr 21 2026
+   Link: https://trello.com/c/cxqCRRAR
+
+364. V2 Admin: On filtering out an empty BV report, the list is loaded very slowly
+   Created: Tue Apr 21 2026
+   Link: https://trello.com/c/Zeik1DG1
+
+365. V2: Please specify the maximum size limit of document in group
+   Created: Tue Apr 21 2026
+   Link: https://trello.com/c/eRQ4lIbB
+
+366. Admin V2: Edit chapter and quiz popup should be as per branding
+   Created: Tue Apr 21 2026
+   Link: https://trello.com/c/s3w1s6Ll
+
+367. V2: Level 3 commissions are not displayed for a Deed user
+   Created: Tue Apr 21 2026
+   Link: https://trello.com/c/tL7pLNqu
+
+368. (comments) V2: User has to go through wallet connection gateway in order to purchase free voucher
+   Created: Tue Apr 21 2026
+   Link: https://trello.com/c/O6xA6ZQx
+
+369. V2: Commission status should initially be marked 'unpaid'
+   Created: Tue Apr 21 2026
+   Link: https://trello.com/c/CNm1aoiS
+
+370. V2: Purchased Voucher is minted as NFT in a user's account without applying
+   Created: Tue Apr 21 2026
+   Link: https://trello.com/c/kEVzARB8
+
+371. V2: On applying filter in Commissions page the page becomes empty
+   Created: Tue Apr 21 2026
+   Link: https://trello.com/c/2Yj4Ljyz
+
+372. configure backend changes based on new smart contract changes
+   Created: Wed Apr 22 2026
+   Link: https://trello.com/c/SpHCFajN
+
+373. prepare web3 migration script and sort duplicate entries / network tree for Dev DB
+   Created: Wed Apr 22 2026
+   Link: https://trello.com/c/K4GQ4QGb
+
+374. (comments) Admin V2: Two toaster messages are displayed on deleting a chapter or a quiz
+   Created: Wed Apr 22 2026
+   Link: https://trello.com/c/sl6j5baP
+
+375. V2: No need of Export pdf button in pool transaction history
+   Created: Wed Apr 22 2026
+   Link: https://trello.com/c/6Muy8SzW
+
+376. V2: Export csv/excel button should have same appearance and place
+   Created: Wed Apr 22 2026
+   Link: https://trello.com/c/4y5gv1lL
+
+377. (Suggestion) V2: Icons in the new reports should be changed
+   Created: Wed Apr 22 2026
+   Link: https://trello.com/c/y4YloQCi
+
+378. V2: Buttons within dashboard Activity feed should be fixed, even if there are no posts
+   Created: Wed Apr 22 2026
+   Link: https://trello.com/c/0wlopvhU
+
+379. Admin V2: No need of Rank filter and column for Star-3
+   Created: Wed Apr 22 2026
+   Link: https://trello.com/c/XEFtYMSL
+
+380. V2: Name of dropdown should be changed in side menu
+   Created: Wed Apr 22 2026
+   Link: https://trello.com/c/4oG6HHeA
+
+381. (Functionality) V2: Web3 NFT tree is not displayed
+   Created: Wed Apr 22 2026
+   Link: https://trello.com/c/JzMOsyI7
+
+382. V2 Admin: Deed Energy earned from package purchase is not displayed
+   Created: Wed Apr 22 2026
+   Link: https://trello.com/c/n2HS1i83
+
+383. V2: Text in deed energy filters should be properly aligned
+   Created: Wed Apr 22 2026
+   Link: https://trello.com/c/cBlkv4hR
+
+384. V2: None of the filters in deed energy report are working ( User Side)
+   Created: Wed Apr 22 2026
+   Link: https://trello.com/c/gaSUg8ez
+
+385. V2: User is able to enter text in DE value and date filter
+   Created: Wed Apr 22 2026
+   Link: https://trello.com/c/RXH5szAv
+
+386. V2: List pages are not working in DE report page
+   Created: Wed Apr 22 2026
+   Link: https://trello.com/c/KTVZuWaY
+
+387. (comments) V2: Search button not working in pool rewards list
+   Created: Wed Apr 22 2026
+   Link: https://trello.com/c/xUZUyHMK
+
+388. V2 Admin: the Voucher status page of admin is loading very slowly
+   Created: Wed Apr 22 2026
+   Link: https://trello.com/c/NxhcKKm8
+
+389. V2: My commissions table is loading very slowly for a particular account
+   Created: Wed Apr 22 2026
+   Link: https://trello.com/c/UZO110ar
+
+390. (UI/UX) V2: Long usernames are getting out of space in genealogy page
+   Created: Wed Apr 22 2026
+   Link: https://trello.com/c/gj8NnugZ
+
+391. If the user is treated as SEED we should not distribute pool earnings
+   Created: Wed Apr 22 2026
+   Link: https://trello.com/c/wQ6B7omx
+
+392. When ABL expires Update rank participants count
+   Created: Wed Apr 22 2026
+   Link: https://trello.com/c/fIbQqqPl
+
+393. Fix the position of Mprofy growth path
+   Created: Wed Apr 22 2026
+   Link: https://trello.com/c/rH4dcq6M
+
+394. Need to remove this container. Only display minted NFTs in my assets
+   Created: Wed Apr 22 2026
+   Link: https://trello.com/c/e6FivbCO
+
+395. in the NFT name we also need to add #NFT_ID. so if someone minted deed NFT the name will be "DEED PIONEER NFT #21"
+   Created: Thu Apr 23 2026
+   Link: https://trello.com/c/wwGaqAKs
+
+396. V2: Free/Seed user should be upgraded to a Deed holder after 10 Deed direct downline
+   Created: Thu Apr 23 2026
+   Link: https://trello.com/c/KKIA35UU
+
+397. (check comments) V2: Some pages are not properly displayed when page is zoomed-in
+   Created: Thu Apr 23 2026
+   Link: https://trello.com/c/brI5BfVE
+
+398. (comments) V2: Deed Energy sent on discount is not displayed in Energy history
+   Created: Fri Apr 24 2026
+   Link: https://trello.com/c/Uwb340NA
+
+399. (comments) V2: DE is not Earned on various activities
+   Created: Fri Apr 24 2026
+   Link: https://trello.com/c/cr9ZE6Uu
+
+400. (comments) V2 Admin: Founder NFT is purchased by a user in BV report
+   Created: Fri Apr 24 2026
+   Link: https://trello.com/c/XDNSxyyf
+
+401. V2: Product images should be completely displayed in the store
+   Created: Sun Apr 26 2026
+   Link: https://trello.com/c/CYtxAD4l
+
+402. V2: Polygon explorer shows Profile NFT as Deed
+   Created: Sun Apr 26 2026
+   Link: https://trello.com/c/9Eq2cvlp
+
+403. V2: NFT showing no attributes
+   Created: Sun Apr 26 2026
+   Link: https://trello.com/c/pEnmAfW5
+
+404. V2: User can't add Wallet address
+   Created: Sun Apr 26 2026
+   Link: https://trello.com/c/PBFgKS6B
+
+405. V2: some accounts are not displayed in members page
+   Created: Sun Apr 26 2026
+   Link: https://trello.com/c/2Sxmwh94
+
+406. V2 Admin: QV is shown in User's profile
+   Created: Sun Apr 26 2026
+   Link: https://trello.com/c/neNnGGdl
+
+407. V2: Image needed for Free NFT
+   Created: Sun Apr 26 2026
+   Link: https://trello.com/c/PTMXwpNf
+
+408. (comments) V2: Description of Rank Progression guide should be customized as per every user
+   Created: Sun Apr 26 2026
+   Link: https://trello.com/c/AgluVAv5
+
+409. V2: Side scroll bar in all the lists should appear same and clearly visible
+   Created: Sun Apr 26 2026
+   Link: https://trello.com/c/7oKJcr2I
+
+410. (comments) V2: user is able to select later date on start date
+   Created: Sun Apr 26 2026
+   Link: https://trello.com/c/N7yPvdxc
+
+411. (UI/UX) V2 Admin: the popup in pool page should contain correct name of the pool
+   Created: Sun Apr 26 2026
+   Link: https://trello.com/c/cyimLHtb
+
+412. V2: Profile NFT or Seed NFT is not displayed in Assets for latest accounts
+   Created: Sun Apr 26 2026
+   Link: https://trello.com/c/htOmxrwG
+
+413. V2: All symbols associated with 'Venom' should be removed
+   Created: Sun Apr 26 2026
+   Link: https://trello.com/c/ZNeJiCuV
+
+414. V2 Admin: Two toaster messages are displayed on deleting a course
+   Created: Sun Apr 26 2026
+   Link: https://trello.com/c/8SpZkYP0
+
+415. V2: Price of a voucher is shown different at two places
+   Created: Sun Apr 26 2026
+   Link: https://trello.com/c/6dEEsw6x
+
+416. (comments) V2: User has to go through wallet connection gateway in order to purchase free voucher
+   Created: Sun Apr 26 2026
+   Link: https://trello.com/c/MBu24c7v
+
+417. V2: Alert message is displayed on purchasing a Free voucher
+   Created: Sun Apr 26 2026
+   Link: https://trello.com/c/rrCBZLBt
+
+418. (UI/UX) V2: Date filter in My commissions has an odd gap
+   Created: Sun Apr 26 2026
+   Link: https://trello.com/c/rR5pqwS5
+
+419. This should open in a new tab
+   Created: Mon Apr 27 2026
+   Link: https://trello.com/c/qvG4LaD5
+
+420. V2: user unable to access a seed course, if he already has deed course
+   Created: Mon Apr 27 2026
+   Link: https://trello.com/c/kSPtmTlj
+
+421. Need to change the container color based on free, seed and deed card
+   Created: Mon Apr 27 2026
+   Link: https://trello.com/c/bKU3ucHI
+
+422. when a user buys a package, here it should initially display the name of the NFT along with a text: "NFT id generating...". use the mintnftrequest table
+   Created: Mon Apr 27 2026
+   Link: https://trello.com/c/KGTd2UMm
+
+423. Should not be able to downgrade the forced rank from admin panel
+   Created: Mon Apr 27 2026
+   Link: https://trello.com/c/lAHkkbqE
+
+424. V2: That numbers should be 4 decimal.
+   Created: Mon Apr 27 2026
+   Link: https://trello.com/c/AwwVilzM
+
+425. (comments) V2: User is able to enter text in DE value and date filter
+   Created: Tue Apr 28 2026
+   Link: https://trello.com/c/ucEKaf0u
+
+426. replace "lazy minting" with "smart minting" term everywhere in frontend
+   Created: Wed Apr 29 2026
+   Link: https://trello.com/c/91XvfC13
+
+427. text is displaying in black
+   Created: Wed Apr 29 2026
+   Link: https://trello.com/c/OTrYbG3G
+
+428. image.png
+   Created: Wed Apr 29 2026
+   Link: https://trello.com/c/79wNpuso
+
+429. null value is being stored in backend
+   Created: Wed Apr 29 2026
+   Link: https://trello.com/c/6DBRRPlg
+
+430. V2: New ui need to develop
+   Created: Thu Apr 30 2026
+   Link: https://trello.com/c/XRWjLXmX
+
+431. Create a API which takes on username and type of NFT and assigns that NFT to that username. Also it will make changes to all relevant db tables which are applicable in this process. Eg: orders table, transaction table etc etc.
+   Created: Thu Apr 30 2026
+   Link: https://trello.com/c/Gyoou9kc
+
+432. V2: Page title of User reports features show "Genealogy"
+   Created: Thu Apr 30 2026
+   Link: https://trello.com/c/UkpL9MEU
+
+433. Need to fix the withdraw NFT function. make it more responsive for frontend state, also set the entered wallet address as the user's profile wallet address immediately
+   Created: Thu Apr 30 2026
+   Link: https://trello.com/c/u5g6wO7b
+
+434. V2: Video to be uploaded for "opportunity center"
+   Created: Thu Apr 30 2026
+   Link: https://trello.com/c/YzOYqivB
+
+435. total calculated NFT tree and individual user genealogy NFT tree dont match
+   Created: Fri May 01 2026
+   Link: https://trello.com/c/4xSzbbO0
+
+436. V2 Admin: Force Rank button should be as per brand color and properly aligned
+   Created: Fri May 01 2026
+   Link: https://trello.com/c/AroV4aZm
+
+437. (comments) Admin V2: Balance filter is not working properly in DE report
+   Created: Fri May 01 2026
+   Link: https://trello.com/c/XYSvz0Cd
+
+438. V2: Full username of user should be displayed in Web3 tree
+   Created: Fri May 01 2026
+   Link: https://trello.com/c/IrnPoRxu
+
+439. V2: No need for voucher section in store
+   Created: Sun May 03 2026
+   Link: https://trello.com/c/coso6POm
+
+440. V2: After forcing user rank to higher star level "Next best action" card should also be update
+   Created: Sun May 03 2026
+   Link: https://trello.com/c/SZCUdBhS
+
+441. V2: Error is being displayed on opening a group
+   Created: Sun May 03 2026
+   Link: https://trello.com/c/X0OoLE2k
+
+442. (Functionality) V2: Web3 NFT tree is not displayed
+   Created: Sun May 03 2026
+   Link: https://trello.com/c/HOZ8s5G1
+
+443. V2: Remove QV from Store
+   Created: Sun May 03 2026
+   Link: https://trello.com/c/BDKIL1LH
+
+444. DEV: New UI needs to be developed, Directly On Dev branch
+   Created: Mon May 04 2026
+   Link: https://trello.com/c/QFwCEPZr
+
+445. Need a flow for sub account user login
+   Created: Mon May 04 2026
+   Link: https://trello.com/c/WdCFkqnR
+
+446. need to remove this popup from passwordless login
+   Created: Tue May 05 2026
+   Link: https://trello.com/c/N4DrgRIz
+
+447. remove from web3 NFT tree
+   Created: Tue May 05 2026
+   Link: https://trello.com/c/AEezYeEu
+
+448. referral tree changes prod: stef_fu needs to be added under gabivisionary and rosmarie and funkman under stef_fu
+   Created: Tue May 05 2026
+   Link: https://trello.com/c/8LbU4aoH
+
+449. Direct deed count is wrong when abl is expired
+   Created: Wed May 06 2026
+   Link: https://trello.com/c/IvndPfkB
+
+450. Live Admin: Old title keeps displaying in the create box even after Admin uploads an announcement
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/n0ZQ94QD
+
+451. V2: Star pool levels should also be present in level filter
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/GRL7UtDN
+
+452. Live Admin & User: Announcement title is not being displayed for the user
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/q7AZTnpC
+
+453. Live: There is no need for Rank, only Star level
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/rEZdMrWa
+
+454. Live Admin: Thumbnail image is not being uploaded with the Admin announcements
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/KoJIKl0N
+
+455. Back to Web2.0
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/340ud9XR
+
+456. V2: Confirmation needed for deleted accounts
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/cHLL5E0n
+
+457. (comments) V2: Some pages are not properly displayed when page is zoomed-in
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/77gTDJKa
+
+458. V2 Admin: Admin is able to enter text in course price, BV and deed energy in upload & update popup
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/3MyWj4cX
+
+459. V2 Admin: No need to promote a user twice for the same forced rank
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/Gc79Ufmt
+
+460. Admin Account for Admin Panel
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/DI5qiVCX
+
+461. (abl issue) Live: Seed user can't be promoted to star-1 level unless upgraded to Deed
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/qK1Lxyhi
+
+462. V2: Letter case should be same in all filters and table headers
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/g72X15AM
+
+463. V2: "Next Qualification milestone" to be changed
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/ZeQNy0RG
+
+464. V2: Entire statement should come in one line
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/RkqgZquA
+
+465. V2: Remove the bottom statement and Add "Referral link"
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/jq1A87bj
+
+466. V2: NFT asset to be displayed in place of Wallet address in Dashboard
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/K0e3I2oJ
+
+467. V2: Appearance of next best action in dashboard
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/mxVMg8DC
+
+468. Live: (optimize dashboard apis) Screen should load faster as empty screen is displayed while loading
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/H1MXkLya
+
+469. V2: A free/seed user is not promoted to Star 2 level after getting upgraded to deed
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/LJEuGf5B
+
+470. V2: New design for "Next best action" card on Dashboard
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/ZxRhhRYQ
+
+471. Live: Profile NFT not required in Order History
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/tWrrJwE7
+
+472. V2: DE report filters should be properly aligned
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/ZWNZBavo
+
+473. V2: no. of entries in the Users reports are zero
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/fB1QGepx
+
+474. V2: Date filter is not working properly for User reports
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/EcGktXIY
+
+475. (comments) V2: Side scroll bar in all the lists should appear same and clearly visible
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/AJ5bYmbU
+
+476. (comments)V2: Export csv/excel button should have same appearance and place
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/HYl0VHdx
+
+477. V2: Odd gap is present under Social notification
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/Anfnvyft
+
+478. V2: Paid status should be directly under status column
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/V341g49N
+
+479. V2:Wrong commission percentage given in Store
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/WA7e7MTK
+
+480. V2: Explore packages button leads to voucher or products in store
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/pi2LmtJq
+
+481. V2: Complete order id and transaction id should be displayed in the order history
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/GrNJKCYW
+
+482. Live Admin: Announcement title should be properly visible
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/bxYolsOM
+
+483. V2: Date filter is not consistent for different dates
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/gmQxJ8pf
+
+484. V2: Free collection doesn't need to be ordered
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/PTwTUKHR
+
+485. V2: Refuel DE description should be properly aligned and spaced
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/k2sNQiiX
+
+486. V2: No data is displayed in DE report for a particular account
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/V4dvZl2H
+
+487. V2: ABL product details page
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/Ka4ae3va
+
+488. (urgent) Live: No DE discount is present
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/iw7oWikx
+
+489. V2: Deed account is made inactive before one year
+   Created: Thu May 07 2026
+   Link: https://trello.com/c/hqavZ6qE
+
+490. Remove Buy package from store, if the user has already bought the package
+   Created: Fri May 08 2026
+   Link: https://trello.com/c/QZ4v97MD
+
+491. Admin panel: display new rank system names. these are old rank system names
+   Created: Fri May 08 2026
+   Link: https://trello.com/c/8OJmfDuF
+
+492. (comments again) V2: DE is not Earned on various activities
+   Created: Sat May 09 2026
+   Link: https://trello.com/c/hCP4krGu
+
+493. Rank should be upgraded instantly as soon as you change direct deed count
+   Created: Sat May 09 2026
+   Link: https://trello.com/c/RXGHFwgd
+
+494. Through testing for ABL as discussed in meeting. Check geniology after abl expire in two scenarios. First expire abl of children and check if rank downgrade. Second expire abl of parent and check geniology of parent
+   Created: Sat May 09 2026
+   Link: https://trello.com/c/ZUCisQSw
+
+495. Multiple test cris package got bought at a single purchase in account: ref8_of_phoenixxx@mprofy.test , please check my assets page
+   Created: Sun May 10 2026
+   Link: https://trello.com/c/IgN2moY3
+
+496. Multiples NFTs are being minted for single purchase ref7_of_phoenixxx@mprofy.test
+   Created: Sun May 10 2026
+   Link: https://trello.com/c/LaCljx1j
+
+497. V2: Source user and earned amount is not displayed in Pool reports
+   Created: Mon May 11 2026
+   Link: https://trello.com/c/sRh9LXb6
+
+498. V2: All dates in pool reports should cover the same space
+   Created: Mon May 11 2026
+   Link: https://trello.com/c/Ge9OcU4j
+
+499. V2: no children message is displayed for al nodes in WEB3 Genealogy
+   Created: Mon May 11 2026
+   Link: https://trello.com/c/b51FjjIM
+
+500. V2: Page not found is displayed on clicking opensea link for a user
+   Created: Mon May 11 2026
+   Link: https://trello.com/c/CGHII9JX
+
+501. V2: complete Transaction Id should be displayed in the Web3 nft tree
+   Created: Mon May 11 2026
+   Link: https://trello.com/c/s6rfT238
+
+502. Live Admin: Gap required under page number
+   Created: Mon May 11 2026
+   Link: https://trello.com/c/wAzNTOvf
+
+503. Live: application error is displayed again
+   Created: Mon May 11 2026
+   Link: https://trello.com/c/HDHTtOb1
+
+504. Live: Package appearance in store is distorted
+   Created: Mon May 11 2026
+   Link: https://trello.com/c/pHDEUNUU
+
+505. Live: Button appearance for packages has changed
+   Created: Mon May 11 2026
+   Link: https://trello.com/c/xcqg3Ynv
+
+506. Live: No commission is displayed  even if there is available balance
+   Created: Mon May 11 2026
+   Link: https://trello.com/c/RdMuQMc6
+
+507. Live: Overview required for gamified platform functions
+   Created: Mon May 11 2026
+   Link: https://trello.com/c/HccJ5bUs
+
+508. (comments) V2: Different message should be displayed for Free seed and star 3 under Next milestone
+   Created: Tue May 12 2026
+   Link: https://trello.com/c/vuFv4sz8
+
+509. Live: Pool members in are displayed as zero in user reports
+   Created: Wed May 13 2026
+   Link: https://trello.com/c/UKs216c8
+
+510. Live Admin: "Subheading" is overlapping with the arrow in announcements
+   Created: Wed May 13 2026
+   Link: https://trello.com/c/zWKA8Z2y
+
+511. Live: Top-boxes in dashboard should lead to their respective reports
+   Created: Wed May 13 2026
+   Link: https://trello.com/c/DGPH88os
+
+512. Live: Remove QV from genealogy popup
+   Created: Wed May 13 2026
+   Link: https://trello.com/c/j8RPOHoj
+
+513. Live Admin & User: Size of the text in announcements is not the same for user
+   Created: Wed May 13 2026
+   Link: https://trello.com/c/13cJiMFJ
+
+514. Live: Appearance of all page names should be the same
+   Created: Wed May 13 2026
+   Link: https://trello.com/c/Yrahl2c9
+
+515. Live: No need to write "Deed energy filters" in DE report
+   Created: Wed May 13 2026
+   Link: https://trello.com/c/R7DPn9fG
+
+516. Live Admin: On changing first and last name, full name is not changed and vice-versa
+   Created: Wed May 13 2026
+   Link: https://trello.com/c/Kz1E42Yf
+
+517. Live: Wallet address should not be prefilled in the 'Confirm withdraw' popup
+   Created: Wed May 13 2026
+   Link: https://trello.com/c/vz3z64Mv
+
+518. Live: User should get alert while withdrawing NFT
+   Created: Wed May 13 2026
+   Link: https://trello.com/c/FHiMOhTz
+
+519. Live: Wallet blockchain should be verified before the withdrawal
+   Created: Wed May 13 2026
+   Link: https://trello.com/c/udMSEyFO
+
+520. Live Admin: Venom wallet should not be displayed on User's profile
+   Created: Wed May 13 2026
+   Link: https://trello.com/c/qZWNgteR
+
+521. Live Admin: No QV should be displayed on user's profile
+   Created: Wed May 13 2026
+   Link: https://trello.com/c/McVUiX8Y
+
+522. Live: Remove QV from the details page of Refuel DE
+   Created: Fri May 15 2026
+   Link: https://trello.com/c/269HKaU0
+
+523. Live: Voucher section is still displayed for the free user
+   Created: Fri May 15 2026
+   Link: https://trello.com/c/Fq0muyPU
+
+524. API-id is not present in the filter dropdown
+   Created: Sat May 16 2026
+   Link: https://trello.com/c/2kzsAT1v
+
+525. Export Report button is not working in My API page
+   Created: Sat May 16 2026
+   Link: https://trello.com/c/RCFZPdKn
+
+526. View button in My API page should lead to API management page
+   Created: Sat May 16 2026
+   Link: https://trello.com/c/gDCDrOOC
+
+527. Deed NFT image should be displayed in the 'My APIs' page
+   Created: Sat May 16 2026
+   Link: https://trello.com/c/IXHEtim8
+
+528. No API ID is present in API management page
+   Created: Sat May 16 2026
+   Link: https://trello.com/c/vBdqilX5
+
+529. Requirement of session ID in Activation page
+   Created: Sat May 16 2026
+   Link: https://trello.com/c/1hKZ46ju
+
+530. API packages are Not listed in the store
+   Created: Sat May 16 2026
+   Link: https://trello.com/c/CW3g010D
+
+531. API voucher code is not working
+   Created: Sat May 16 2026
+   Link: https://trello.com/c/3EuX2Hwu
+
+532. Bottom "Get API access" button is not working
+   Created: Sat May 16 2026
+   Link: https://trello.com/c/S7DwqlpJ
+
+533. API support button is not working
+   Created: Sat May 16 2026
+   Link: https://trello.com/c/LvavbzVS
+
+534. Use the Mprojoin API logo at the top-left
+   Created: Sat May 16 2026
+   Link: https://trello.com/c/VGjaalTd
+
+535. Remove Voucher section store page
+   Created: Sat May 16 2026
+   Link: https://trello.com/c/1PnGxIoK
+
+536. Integrate API in store page and API details page
+   Created: Sat May 16 2026
+   Link: https://trello.com/c/RVy30OZl
+
+537. need to change image of these as per figma and also open the API detail page once we click on buy voucher
+   Created: Sat May 16 2026
+   Link: https://trello.com/c/U51Sijo0
+
+538. Wrong Profile NFTs numbers are given in different pages of API feature
+   Created: Sun May 17 2026
+   Link: https://trello.com/c/HwU1sjWG
+
+539. Wrong status of user is given in API management page
+   Created: Sun May 17 2026
+   Link: https://trello.com/c/jQX7lU0G
+
+540. Admin prod: sponsor is not appearing for this user
+   Created: Mon May 18 2026
+   Link: https://trello.com/c/v9dOkp2U
+
+541. This number seems incorrect
+   Created: Mon May 18 2026
+   Link: https://trello.com/c/Wfz0H48Q
+
+542. Mprojoin-api merge with production
+   Created: Mon May 18 2026
+   Link: https://trello.com/c/AeT1KzZy
+
+543. Live: Recently active filters in Members page (client error)
+   Created: Mon May 18 2026
+   Link: https://trello.com/c/RVSqVbWN
+
+544. Live: API package vouchers should not accept voucher codes in cart
+   Created: Tue May 19 2026
+   Link: https://trello.com/c/bJwAGEmO
+
+545. Live: As discussed earlier, there is no need of Voucher section in Store page
+   Created: Tue May 19 2026
+   Link: https://trello.com/c/IMIfsviy
+
+546. Live: API Product Details page should be displayed as per the design
+   Created: Tue May 19 2026
+   Link: https://trello.com/c/ibHK09zU
+
+547. Live: Discount and old price should be displayed in the  API packages in Store page
+   Created: Tue May 19 2026
+   Link: https://trello.com/c/eKtBWjYi
+
+548. Live: Description and appearance of the API package thumbnail should be properly displayed in the Store
+   Created: Tue May 19 2026
+   Link: https://trello.com/c/ZcZ1mprv
+
+549. No other details is being displayed in My API page
+   Created: Tue May 19 2026
+   Link: https://trello.com/c/x43ViU7x
+
+550. Live: Invalid API credential error is displayed while posting
+   Created: Tue May 19 2026
+   Link: https://trello.com/c/fXZzUFvV
+
+551. Live: Last link in the API Policy is shows page not found
+   Created: Tue May 19 2026
+   Link: https://trello.com/c/SiAcNWqc
+
+552. Live Admin: Profile NFT instead of founder
+   Created: Thu May 21 2026
+   Link: https://trello.com/c/GphaHIMk
+
+553. Live: Number of Active members in store should be correct
+   Created: Thu May 21 2026
+   Link: https://trello.com/c/Yx03RImZ
+
+554. Live: Admin shouldn't be able to set different price for Voucher and package for same course
+   Created: Thu May 21 2026
+   Link: https://trello.com/c/pcSlgwBZ
+
+555. Live: Can't see the email of constellation position
+   Created: Thu May 21 2026
+   Link: https://trello.com/c/PfluIBtL
+
+556. Live: Second word of dashboard top boxes should start with capital letter
+   Created: Thu May 21 2026
+   Link: https://trello.com/c/uBxOIi08
+
+557. Live: Social notifications scroll bar is not visible on going down
+   Created: Thu May 21 2026
+   Link: https://trello.com/c/eXoCWDuI
+
+558. Live Admin: Admin is unable to login to user's profile
+   Created: Thu May 21 2026
+   Link: https://trello.com/c/nYEE7UQU
+
+559. Live: Application error occurred for client
+   Created: Thu May 21 2026
+   Link: https://trello.com/c/xrEgbpVm
+
+560. Live: Application error on clicking Inbox feature
+   Created: Thu May 21 2026
+   Link: https://trello.com/c/ujeBN0ZX
+
+561. Only the latest upgraded NFT should be displayed for each user
+   Created: Thu May 21 2026
+   Link: https://trello.com/c/VFgNV4xk
+
+562. There should be at most 10 entries in each page of API users list
+   Created: Thu May 21 2026
+   Link: https://trello.com/c/0HNuKUiz
+
+563. A lot of empty space in the Support section under API management
+   Created: Thu May 21 2026
+   Link: https://trello.com/c/dsjoLk0Q
+
+564. Appearance of self support section should be consistent across all the pages
+   Created: Thu May 21 2026
+   Link: https://trello.com/c/TKm0T0it
+
+565. Deed NFT is not displayed in My assets and in dashboard even after purchasing
+   Created: Thu May 21 2026
+   Link: https://trello.com/c/d8Vxr3ID
+
+566. Wrong and unresponsive support link is given in API management page
+   Created: Thu May 21 2026
+   Link: https://trello.com/c/dOZSodpO
+
+567. A user has Deed NFT listed in his assets and seed NFT in order history
+   Created: Thu May 21 2026
+   Link: https://trello.com/c/U89WMSQC
+
+568. Live: Remove QV, TLR and SLR from ABL description
+   Created: Thu May 21 2026
+   Link: https://trello.com/c/l7QY8RsA
+
+569. Live: server logs is showing that Depay did not give a successful status when transaction happened
+   Created: Thu May 21 2026
+   Link: https://trello.com/c/zNHdoeyk
+
+570. Live Admin: No BV is generated for API activation for Root user
+   Created: Thu May 21 2026
+   Link: https://trello.com/c/Flsjm0Qq
+
+571. Live Admin: BV generated should be displayed for activated API vouchers
+   Created: Thu May 21 2026
+   Link: https://trello.com/c/FQf5yH4N
+
+572. Fix penetration testing issues
+   Created: Fri May 22 2026
+   Link: https://trello.com/c/l0a3WY2n
+
+573. Live: Remove the 20 Deed mark for Star-3 user
+   Created: Mon May 25 2026
+   Link: https://trello.com/c/pMQtqw5J
+
+574. Live: Join and Leave group button are not as per branding
+   Created: Mon May 25 2026
+   Link: https://trello.com/c/abGw8WDy
+
+575. Live: On clicking the Join button in a group both Join and leave start to display
+   Created: Mon May 25 2026
+   Link: https://trello.com/c/lO4PKrGF
+
+576. (refer to video attached) Live Admin: All items are given a each page of Commissions list
+   Created: Mon May 25 2026
+   Link: https://trello.com/c/KOBo311D
+
+577. Live: Commission wallet have zero (0) amount
+   Created: Mon May 25 2026
+   Link: https://trello.com/c/byO3qcIC
+
+578. Live: Back button is not working in API
+   Created: Mon May 25 2026
+   Link: https://trello.com/c/Z3tXwGYA
+
+579. Live: On opening the Mprojoin API page the alert should be displayed for non-Deed holders
+   Created: Mon May 25 2026
+   Link: https://trello.com/c/NinMSAEh
+
+580. Number of character in API problem description disappears while writing
+   Created: Mon May 25 2026
+   Link: https://trello.com/c/qnAW6k7i
+
+581. Cancel button is not working in API support page
+   Created: Mon May 25 2026
+   Link: https://trello.com/c/0I9reJcd
+
+582. Live: Invalid API credential error is displayed while posting
+   Created: Mon May 25 2026
+   Link: https://trello.com/c/gLtcY63N
+
+583. Live: Change the endpoint url from the API management and Activation page
+   Created: Mon May 25 2026
+   Link: https://trello.com/c/v0ihuoLn
+
+584. Live: API management page is not opened on clicking "View" buton
+   Created: Mon May 25 2026
+   Link: https://trello.com/c/Bgx86MDe
+
+585. Live: API Voucher page is not getting displayed for a particular account
+   Created: Mon May 25 2026
+   Link: https://trello.com/c/Ian8qI8X
+
+586. (comments) Use the Mprojoin API logo at the top-left
+   Created: Mon May 25 2026
+   Link: https://trello.com/c/Kv7QOahx
+
+587. (comments) Bottom "Get API access" button is not working
+   Created: Mon May 25 2026
+   Link: https://trello.com/c/mNkA6ua0
+
+588. Number of logged-in API accounts is wrong
+   Created: Mon May 25 2026
+   Link: https://trello.com/c/P8IBY23y
+
+589. Wrong status of user is given in API management page
+   Created: Mon May 25 2026
+   Link: https://trello.com/c/Y6IJeH5q
+
+590. Live Admin: API logos are not displayed in store page of Admin
+   Created: Mon May 25 2026
+   Link: https://trello.com/c/xqHVdS9g
+
+591. V2: some accounts are not displayed in members page
+   Created: Mon May 25 2026
+   Link: https://trello.com/c/msF61To7
+
+592. Mprolearn: the celebration of confetti animation needs to be improved. it will only appear once a user completes all chapters and quizes of a course. for a new language it should not appear if 1 is already completed
+   Created: Wed May 27 2026
+   Link: https://trello.com/c/i4Yd6Dkq
+
+593. improve displaying languages. use dropdown menu and tag system
+   Created: Wed May 27 2026
+   Link: https://trello.com/c/KvuQc1Og
+
+594. these state of the dashboard numbers should change after data is imported successfully.
+   Created: Wed May 27 2026
+   Link: https://trello.com/c/xvwMF8w7
