@@ -1,0 +1,1423 @@
+Trello Card Archive Report
+Generated on: Mon Sep 21 2026 17:36:19 GMT+0530 (India Standard Time)
+Mode: LIVE (cards were actually archived)
+Cards archived: 354
+Cards remaining in list: 150
+
+----------------------------------------
+
+1. Live: Update needed on Referral Link page
+   Created: Fri May 29 2026
+   Link: https://trello.com/c/cniqVxx7
+
+2. Fix 4 remaining penetration issues
+   Created: Sat May 30 2026
+   Link: https://trello.com/c/xtWDTcnl
+
+3. Make admin frontend of Mprojoin Data Importor and integrate as per api provided by Imran 
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/ug2Q80kf
+
+4. Live: Downloaded API sync report should contain API-ID as well
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/jF6ptbom
+
+5. Live: Alphabets are given in the date of exported API sync report
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/uZOJyyOi
+
+6. Create these new screens for Mprojoin data importer, integrate data importer packages in store and integrate individual product page
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/ht9R6KeF
+
+7. Live: Logged-in user is displayed as Zero for API parent user
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/IrPnQWmm
+
+8. Live: API Id is not displayed in the exported excel of API sync report
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/35KO4zl4
+
+9. Live: On clicking "Clear filters" button in API sync report, items gets disappeared
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/Jtjagdf6
+
+10. Live UI/UX: Complete API-id is not displayed in the API sync report
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/vWVLU7mM
+
+11. Live: User is unable to send Inbox messages
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/pJHPv2v5
+
+12. Live: Root user filter is not working in API sync report
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/UzdlV6AP
+
+13. Live: Added and successfully imported users in API are different in Root and parent
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/ePkkHV9n
+
+14. Live UI/UX: Appearance of Dropdown Arrow in API sync report should be same
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/x4fOaQzr
+
+15. Live UI/UX: API ID should be displayed instead of voucher code in API management page
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/2ii7cjT8
+
+16. Live UI/UX: Change the icon of Deed NFTs in API management page
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/WhrVtE7F
+
+17. Live UI/UX: Duration of package is not given in the API Vouchers list
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/FfFJBF99
+
+18. Live UI/UX: Appearance of Filter placeholders should be same in API users list
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/ym7kyLxi
+
+19. API support page accepts invalid API key and username
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/0KVGBDIp
+
+20. Live: Checkbox to withdraw NFT is not working
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/RiZTXHJ5
+
+21. Live UI/UX: Filter button in Members page, are distorted in Zoomed-in resolution
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/Zhr0lJoG
+
+22. Live: Client Issue with ABL
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/HfatAsMb
+
+23. View button in My API page should lead to API management page
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/dpZrEWPI
+
+24. Live UI/UX: API support page, first letter of placeholder should be uppercase
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/FgonK4l1
+
+25. Live: User should receive notifications if a member is added using their referral link
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/lXHZUN0n
+
+26. Live: Add the proper logos for API and importer in Business hub
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/ixUMHQMq
+
+27. Deed NFT image should be displayed in the 'My APIs' page
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/tpcCqS0w
+
+28. Live: Sponsors column should be added to API users list
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/owQm43bx
+
+29. Live Admin: In the API report, Voucher code is displayed instead of API ID
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/xfZoN8aD
+
+30. Live: API status should be Active or Completed
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/YN6dh3Aq
+
+31. Live Admin: API status should be Completed or Active
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/XZmS5Yf9
+
+32. Live Admin: API root user filter works only on typing full name
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/djhp2eJ8
+
+33. Live Admin: "View" button is not working in API Report
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/eTEkYN8R
+
+34. Live Admin: Root and Parent user should be displayed in API voucher list
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/zV1510aK
+
+35. Live Admin: Current stage of a voucher should be displayed in API Vouchers list
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/KwWlmm8R
+
+36. Live Admin: Duration of package is not given in the API Vouchers list
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/EjBn4fXM
+
+37. Live Admin: Voucher code should be displayed in API Vouchers
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/oIl6PliT
+
+38. No API ID is present in API management page
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/BEKAY0Ym
+
+39. Live Admin: Admin is able to set start date later than end date in API report
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/LXiRxNYK
+
+40. Staging: Deed user is shown as Seed user in product details page
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/1TkyDja2
+
+41. Staging: "Buy voucher" button is not displayed for Deed course in store
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/n37PQuyd
+
+42. Staging: Language selection for a course should be displayed after purchasing a course
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/Bv6fZ5S3
+
+43. Staging: User is unable to purchase a course in Store
+   Created: Sun May 31 2026
+   Link: https://trello.com/c/tOyHSa2R
+
+44. move this column after "Amount" column. and rename it to "Paid Amount"
+   Created: Tue Jun 02 2026
+   Link: https://trello.com/c/CNARCMxx
+
+45. This user has more than 500 entries in deed energy report, but only upto 50 are in pagination
+   Created: Tue Jun 02 2026
+   Link: https://trello.com/c/KPtu8541
+
+46. Need to get list of vouchers that distributed by admin with 100% discount but full BV QV. is it also stored in transaction table?
+   Created: Tue Jun 02 2026
+   Link: https://trello.com/c/9L9JzAKp
+
+47. NFT Transfer: Account import is not working
+   Created: Wed Jun 03 2026
+   Link: https://trello.com/c/TmsZgZ0q
+
+48. ADMIN: instead of "withdrawable admin commission" display "commission paid out". and calculate that value from the "my claims" table
+   Created: Thu Jun 04 2026
+   Link: https://trello.com/c/50DzshXW
+
+49. need to fix orders page, pagination. check video
+   Created: Thu Jun 04 2026
+   Link: https://trello.com/c/DBIXkOCu
+
+50. make it dynamic
+   Created: Thu Jun 04 2026
+   Link: https://trello.com/c/Iae1Xxjo
+
+51. Show referral link based on PROD/DEV url
+   Created: Thu Jun 04 2026
+   Link: https://trello.com/c/E9r90cLL
+
+52. Live: Remove usernames from My Commission report
+   Created: Fri Jun 05 2026
+   Link: https://trello.com/c/7KnyiGXI
+
+53. Live: remove usernames from the pool reports
+   Created: Fri Jun 05 2026
+   Link: https://trello.com/c/Z01z0TcV
+
+54. Live Admin URGENT: Total pool earnings are less than expected calculation
+   Created: Fri Jun 05 2026
+   Link: https://trello.com/c/NhMlEoEA
+
+55. remove unnecessary scripts except for migration scripts
+   Created: Fri Jun 05 2026
+   Link: https://trello.com/c/6hdgelcR
+
+56. create test cases in dev, to test if all the minting and withdraw functions are working. mint and swap functions, withdraw nft function and manual emmission function. it needs to be mock and cannot change existing user state
+   Created: Fri Jun 05 2026
+   Link: https://trello.com/c/D18JgBbk
+
+57. create test cases in dev for distribute commissions. to ensure the direct, team and pool commissions logic is working properly.
+   Created: Fri Jun 05 2026
+   Link: https://trello.com/c/IhBUquUB
+
+58. Remove all the venom related and locklift related code. make sure code still functions the same without breaking.
+   Created: Fri Jun 05 2026
+   Link: https://trello.com/c/TfSTSTDN
+
+59. NFT Transfer: User is able to register under the already imported user
+   Created: Sat Jun 06 2026
+   Link: https://trello.com/c/B0pbrOLR
+
+60. Live API: Root user is unable to access complete MY API page
+   Created: Sat Jun 06 2026
+   Link: https://trello.com/c/XnUwaozG
+
+61. i have deed pioneer nft on staging, still showing me Pioneer pool as locked
+   Created: Sat Jun 06 2026
+   Link: https://trello.com/c/mYkctjmr
+
+62. Live Admin: Make admin dashboard values with 2 decimal places
+   Created: Sat Jun 06 2026
+   Link: https://trello.com/c/GOP1vrX2
+
+63. Live API: Add Profile NFT in Current status as well
+   Created: Sat Jun 06 2026
+   Link: https://trello.com/c/ypCbWlh5
+
+64. Live API: Add registered/unregistered users in the API users list
+   Created: Sat Jun 06 2026
+   Link: https://trello.com/c/uh1z9iZ5
+
+65. Live API: Root user is unable to access complete MY API page
+   Created: Sat Jun 06 2026
+   Link: https://trello.com/c/th1nBHpR
+
+66. Data importor: i have logged in, but still shows 0 users logged in. Username of loggedin user : sushanttest1
+   Created: Sat Jun 06 2026
+   Link: https://trello.com/c/sDqWnl8c
+
+67. Need to make all email url to open in new tab
+   Created: Sat Jun 06 2026
+   Link: https://trello.com/c/xb2vrkn5
+
+68. NFT Transfer: User is able to register under the already imported user
+   Created: Mon Jun 08 2026
+   Link: https://trello.com/c/G9Lulfum
+
+69. NFT Transfer: Cart and Notification icon shouldn't be displayed in a sender's account after import
+   Created: Mon Jun 08 2026
+   Link: https://trello.com/c/4MaXtPOl
+
+70. NFT Transfer: If the recipient account is logged in on another browser then it remains logged-in
+   Created: Mon Jun 08 2026
+   Link: https://trello.com/c/duwsflkH
+
+71. Live: Adjust the Subscription status of some users who purchased ABL
+   Created: Mon Jun 08 2026
+   Link: https://trello.com/c/44DqdwAx
+
+72. Live Client issue: Adjust the ABL of an account
+   Created: Mon Jun 08 2026
+   Link: https://trello.com/c/d0Akc16f
+
+73. Live Admin: Error displayed after accepting commission request
+   Created: Mon Jun 08 2026
+   Link: https://trello.com/c/1jB2txKS
+
+74. Live: user is able to select end date earlier than start date
+   Created: Mon Jun 08 2026
+   Link: https://trello.com/c/OEg1ahNg
+
+75. Live Admin: Dashboard cards are not properly aligned
+   Created: Mon Jun 08 2026
+   Link: https://trello.com/c/BNhAHT4p
+
+76. Live: Names in My organization list are repeated on different pages
+   Created: Mon Jun 08 2026
+   Link: https://trello.com/c/REyIPn4A
+
+77. Live Admin: Voucher Stats in Dashboard are loading very slowly
+   Created: Mon Jun 08 2026
+   Link: https://trello.com/c/XOEydJXE
+
+78. (check comments also)NFT Transfer: Account import is not working
+   Created: Mon Jun 08 2026
+   Link: https://trello.com/c/BwLwhyC2
+
+79. Live: Pool members in are displayed as zero in user reports
+   Created: Mon Jun 08 2026
+   Link: https://trello.com/c/VVIeIqtS
+
+80. Live: Pool names are not correct in Rewards page
+   Created: Mon Jun 08 2026
+   Link: https://trello.com/c/1dhnZz8C
+
+81. Live: Keywords should not be translated in the Language model
+   Created: Mon Jun 08 2026
+   Link: https://trello.com/c/xcwWDnPx
+
+82. NFT transfer: Unable to login on my metamask account
+   Created: Mon Jun 08 2026
+   Link: https://trello.com/c/hZxfZwVa
+
+83. Live API: Status filter is not working properly in API users list
+   Created: Mon Jun 08 2026
+   Link: https://trello.com/c/dKUVaqsI
+
+84. ADMIN: Display "Total commissions paid out" instead of Admin commission.
+   Created: Mon Jun 08 2026
+   Link: https://trello.com/c/5Xo1fO3S
+
+85. Urgent Live: Constellation child is not shown in Genealogy
+   Created: Fri Jun 12 2026
+   Link: https://trello.com/c/yaRWAwum
+
+86. Urgent Live: Constellation child has same Deed Eenrgy as main account
+   Created: Fri Jun 12 2026
+   Link: https://trello.com/c/G49ZF0gb
+
+87. Data Importer: Latest Design for Mprojoin dashboard should be applied
+   Created: Fri Jun 12 2026
+   Link: https://trello.com/c/5maRFyu6
+
+88. Live Admin API: Adjust the graphs to avoid empty spaces
+   Created: Fri Jun 12 2026
+   Link: https://trello.com/c/BOuzYnM9
+
+89. Live Admin: Sum of Pool amounts doesn't add up to 15% of transaction
+   Created: Fri Jun 12 2026
+   Link: https://trello.com/c/SmCMr4tg
+
+90. Admin live: "NaN" is displayed in empty Members list pages
+   Created: Fri Jun 12 2026
+   Link: https://trello.com/c/wAKPVZrw
+
+91. Live Urgent Client issue: onrender URL
+   Created: Fri Jun 12 2026
+   Link: https://trello.com/c/CyV5ETAu
+
+92. Data Importer: API instructions are given on Data importer activation page
+   Created: Fri Jun 12 2026
+   Link: https://trello.com/c/hMfYIAjo
+
+93. Data importer: No access to start Data importer
+   Created: Fri Jun 12 2026
+   Link: https://trello.com/c/Urj8xepc
+
+94. Create a script to check if any sub account has a children in dev, but not in production. Update those accounts in main
+   Created: Sat Jun 13 2026
+   Link: https://trello.com/c/IGE1big5
+
+95. Mprojoin: Documnetaion and Developer portal should be functional
+   Created: Sat Jun 13 2026
+   Link: https://trello.com/c/SbIvu344
+
+96. No image shown for Mprojoin API voucher in admin panel
+   Created: Sun Jun 14 2026
+   Link: https://trello.com/c/xvC0m0RU
+
+97. Importer: Alert shows Missing fields even when the fields is full
+   Created: Tue Jun 16 2026
+   Link: https://trello.com/c/YZhDaND6
+
+98. Live Urgent Client Issue: Online users are shown a previously active
+   Created: Tue Jun 16 2026
+   Link: https://trello.com/c/hVEVpuZW
+
+99. Importer: Remove the Data Importer Report page and shift "Upload file" button
+   Created: Tue Jun 16 2026
+   Link: https://trello.com/c/OYFgpH0S
+
+100. Live Urgent: Client issue
+   Created: Tue Jun 16 2026
+   Link: https://trello.com/c/dpFi5tgK
+
+101. Urgent Client Issue: User is unable to join the group after receiving an Invite request
+   Created: Wed Jun 17 2026
+   Link: https://trello.com/c/3WKPDrGY
+
+102. before we could see active people
+   Created: Wed Jun 17 2026
+   Link: https://trello.com/c/eurD2JU2
+
+103. Urgent Client Issue: User is unable to join the group after receiving an Invite request
+   Created: Wed Jun 17 2026
+   Link: https://trello.com/c/urwQ6zHg
+
+104. Urgent Client Issue: User is unable to join the group after receiving an Invite request
+   Created: Wed Jun 17 2026
+   Link: https://trello.com/c/s82ehKhI
+
+105. Importer: File is not getting uploaded if the package is already activated
+   Created: Thu Jun 18 2026
+   Link: https://trello.com/c/1zsiHJyJ
+
+106. Live: User is unable to follow and unfollow a user
+   Created: Mon Jun 22 2026
+   Link: https://trello.com/c/Tf9Ls39z
+
+107. API & Data Importer: API package is activated automatically on activating an Importer package
+   Created: Mon Jun 22 2026
+   Link: https://trello.com/c/wZOQ1dAG
+
+108. Urgent Client Issue: User is unable to join the group after receiving an Invite request
+   Created: Mon Jun 22 2026
+   Link: https://trello.com/c/VMs45q2P
+
+109. Live Admin: All products are not displayed in filters of BV report
+   Created: Mon Jun 22 2026
+   Link: https://trello.com/c/rAIy7cw9
+
+110. Live: Query regarding the total members in user report
+   Created: Mon Jun 22 2026
+   Link: https://trello.com/c/1VtTvtwu
+
+111. Live Admin: List pages on Order history page are changing automatically
+   Created: Mon Jun 22 2026
+   Link: https://trello.com/c/coVQcYJ1
+
+112. Live: Filters in referral link page should start with an uppercase letter
+   Created: Mon Jun 22 2026
+   Link: https://trello.com/c/6xHlZw3O
+
+113. Live Admin: Remove time period from Mprojoin API in product filter list of Voucher status
+   Created: Mon Jun 22 2026
+   Link: https://trello.com/c/lj7N01Y5
+
+114. Live: Recently active filter is not working in social
+   Created: Mon Jun 22 2026
+   Link: https://trello.com/c/pLlLgO5s
+
+115. Live Admin: Delete announcement confirmation box should be as per brand guide
+   Created: Mon Jun 22 2026
+   Link: https://trello.com/c/dodcKHRj
+
+116. Live (Client Requirement): Comment font size should be increased
+   Created: Tue Jun 23 2026
+   Link: https://trello.com/c/HrFTgpGR
+
+117. Live: Screen should load faster as empty screen is displayed while loading
+   Created: Tue Jun 23 2026
+   Link: https://trello.com/c/Kb7ySBNL
+
+118. Staging Admin: Wrong timing of announcement is displayed
+   Created: Tue Jun 23 2026
+   Link: https://trello.com/c/0g1Nu02u
+
+119. Data Importer: Users invited via API are visible in Data Importer Overview page
+   Created: Tue Jun 23 2026
+   Link: https://trello.com/c/hAJqBG2m
+
+120. Importer: File is not getting uploaded if the package is already activated
+   Created: Tue Jun 23 2026
+   Link: https://trello.com/c/rHqPvFbO
+
+121. NFT Transfer: Confirm withdraw button is buffering indefinitely
+   Created: Tue Jun 23 2026
+   Link: https://trello.com/c/Gcg2sKGm
+
+122. API tool: Arrows in calendar of API sync report should not overlap
+   Created: Tue Jun 23 2026
+   Link: https://trello.com/c/MF3zVeN3
+
+123. Live API: No option to navigate to the API management page
+   Created: Tue Jun 23 2026
+   Link: https://trello.com/c/YoXCd2Xb
+
+124. Data Importer: Verification email is not received by the imported users
+   Created: Tue Jun 23 2026
+   Link: https://trello.com/c/WkWyoJzS
+
+125. Data Importer: Some details are not displayed in the User's 'view' popup
+   Created: Tue Jun 23 2026
+   Link: https://trello.com/c/cC8tcz9a
+
+126. Live (Client requirement): Remove BV from Refuel Deed Energy
+   Created: Tue Jun 23 2026
+   Link: https://trello.com/c/f3DEcdaP
+
+127. Live Urgent: Some users id not get email from Mprofy
+   Created: Tue Jun 23 2026
+   Link: https://trello.com/c/SleO8xet
+
+128. Mprojoin: API id is given for data importer voucher
+   Created: Thu Jun 25 2026
+   Link: https://trello.com/c/4BhLqqAi
+
+129. Data Importer: "View" button in "Imported data report" page is not working
+   Created: Thu Jun 25 2026
+   Link: https://trello.com/c/K0wPt9Ul
+
+130. Data Importer/API: Non-Deed Holder is able to access Mprojoin by typing URL
+   Created: Thu Jun 25 2026
+   Link: https://trello.com/c/keMWExUk
+
+131. Data Importer: There should be page numbers under the list of recently imported users
+   Created: Thu Jun 25 2026
+   Link: https://trello.com/c/EJKmq44a
+
+132. Data Importer: User is unable to download failed data from Activation page
+   Created: Thu Jun 25 2026
+   Link: https://trello.com/c/Tv3ObmWr
+
+133. Data Importer: User is unable to upload the corrected file
+   Created: Thu Jun 25 2026
+   Link: https://trello.com/c/AJal698W
+
+134. API & Data Importer: Users imported via data importer tool are visible in the API users list
+   Created: Thu Jun 25 2026
+   Link: https://trello.com/c/e6Ndy84R
+
+135. Live: Remove "Choose the tool" popup for Mprojoin on dashboard
+   Created: Thu Jun 25 2026
+   Link: https://trello.com/c/kJ6s9QEI
+
+136. Admin Mprojoin: Remove the Mprojoin Admin button from Side panel
+   Created: Thu Jun 25 2026
+   Link: https://trello.com/c/iet9jOYP
+
+137. Live Urgent: Some users id not get email from Mprofy
+   Created: Thu Jun 25 2026
+   Link: https://trello.com/c/p7sa8EXt
+
+138. Mprojoin: Separate all the reports of Importer and API
+   Created: Thu Jun 25 2026
+   Link: https://trello.com/c/o2Urrr5K
+
+139. Mprojoin: Change name of API vouchers page
+   Created: Thu Jun 25 2026
+   Link: https://trello.com/c/NBiS98iW
+
+140. Admin Mprojoin: Names should not overlap in graph
+   Created: Thu Jun 25 2026
+   Link: https://trello.com/c/BRNgt1d9
+
+141. Admin Mprojoin: Pie chart graph should show different types of API and Importer packages only
+   Created: Thu Jun 25 2026
+   Link: https://trello.com/c/TVdZ33fe
+
+142. Add a status of Invitation Queued which will be changed by the email scheduler
+   Created: Thu Jun 25 2026
+   Link: https://trello.com/c/ULiNmAy4
+
+143. Live: Members tabs disappear after filtering My Connections list
+   Created: Thu Jun 25 2026
+   Link: https://trello.com/c/Y2o8nzkr
+
+144. image.png
+   Created: Fri Jun 26 2026
+   Link: https://trello.com/c/gCICtB6m
+
+145. Live Urgent: Hide all data importer features on Mprojoin Dashboard until live
+   Created: Sat Jun 27 2026
+   Link: https://trello.com/c/yNvqCRvU
+
+146. Live urgent: Only english language is displayed in courses on My Assets page
+   Created: Sat Jun 27 2026
+   Link: https://trello.com/c/faZ6FOQA
+
+147. language of course shouldnt be displayed in Store page
+   Created: Sat Jun 27 2026
+   Link: https://trello.com/c/k3L3Idbd
+
+148. Live: User is unable to send messages to Free connections and downline
+   Created: Sat Jun 27 2026
+   Link: https://trello.com/c/5zNDvVka
+
+149. Live Urgent: Free user should have access to Inbox messaging feature
+   Created: Sat Jun 27 2026
+   Link: https://trello.com/c/fGKFPReg
+
+150. Live Urgent Client Issue: Remove user jvjsince2008
+   Created: Sat Jun 27 2026
+   Link: https://trello.com/c/T9YS1hK8
+
+151. Live: Deed energy should not be prefilled at the DE discount page
+   Created: Sat Jun 27 2026
+   Link: https://trello.com/c/BbH0LUYX
+
+152. (comments) Urgent Live Admin: Sum of Pool amounts doesn't add up to 15% of transaction
+   Created: Sat Jun 27 2026
+   Link: https://trello.com/c/4rmBc7yr
+
+153. Live (Client requirement): Remove BV from Refuel Deed Energy
+   Created: Sat Jun 27 2026
+   Link: https://trello.com/c/v6XhKdIk
+
+154. Live (Client Requirement): Links in comment section should be clickable
+   Created: Sat Jun 27 2026
+   Link: https://trello.com/c/wlsSVXCt
+
+155. Live (Client Requirement): Reduce the space from left side of comment
+   Created: Sat Jun 27 2026
+   Link: https://trello.com/c/ui3PZxol
+
+156. Client requirement: Make Dashboard referral link as direct "click and copy"
+   Created: Sat Jun 27 2026
+   Link: https://trello.com/c/5mhU00fE
+
+157. Client Requirement: Add a checkbox before creating a group
+   Created: Sat Jun 27 2026
+   Link: https://trello.com/c/jTuUf9ag
+
+158. Client Requirement: Add a popup and minimum withdrawal amount
+   Created: Sat Jun 27 2026
+   Link: https://trello.com/c/oXfBfYNl
+
+159. Live: Recently active filter are not working in Any of the tabs in "Members" Page
+   Created: Sat Jun 27 2026
+   Link: https://trello.com/c/IjpFHQqF
+
+160. Live (Client Issue): Wrong notification displayed on sending a join request to group
+   Created: Sat Jun 27 2026
+   Link: https://trello.com/c/5OJb3dc4
+
+161. Live (Client Issue): User should have the option to remove link preview from Mprochat posts
+   Created: Sat Jun 27 2026
+   Link: https://trello.com/c/hmIyLheF
+
+162. Live (Client Issue): User should be able to edit the comment under a post
+   Created: Sat Jun 27 2026
+   Link: https://trello.com/c/ggLLVXms
+
+163. Live Client requirement: Group members should get a notification whenever the group Creator/owner makes a post
+   Created: Sat Jun 27 2026
+   Link: https://trello.com/c/lvNFwkXh
+
+164. Mprojoin: User is unable to activate an API if Data importer is activated
+   Created: Tue Jun 30 2026
+   Link: https://trello.com/c/P4EX80sT
+
+165. Mprojoin: Imported Users are displayed on clicking "View" button in API sync report
+   Created: Tue Jun 30 2026
+   Link: https://trello.com/c/pv9Uqe96
+
+166. Update the design of API landing screen. Design provided on whatsapp
+   Created: Tue Jun 30 2026
+   Link: https://trello.com/c/gV29IhBE
+
+167. When the user clicks on buy button of any mprofy item, but if there is already 1 item in cart, then the cart should remove the old item and proceed to checkout with new item
+   Created: Tue Jun 30 2026
+   Link: https://trello.com/c/21lENETf
+
+168. when user buys data importer from store, he should not be able to use admin voucher. voucher cannot be bought with another voucher
+   Created: Tue Jun 30 2026
+   Link: https://trello.com/c/ErSXg1QA
+
+169. When user buys mprojoin api or mprojoin data importer, on successful payment it should redirect to voucher status page not my assets page
+   Created: Tue Jun 30 2026
+   Link: https://trello.com/c/Ys37TMSp
+
+170. when user buys data importer voucher with POL, it is not appearing in voucher status. how can user copy voucher code in this scenario
+   Created: Tue Jun 30 2026
+   Link: https://trello.com/c/if1MwswX
+
+171. when a user already has 500 slots and he activates another data importer package of 2000, then the capacity should be 2500.
+   Created: Tue Jun 30 2026
+   Link: https://trello.com/c/CdXPWYuu
+
+172. Change routing of Mprojoin from business hub
+   Created: Wed Jul 01 2026
+   Link: https://trello.com/c/5fXZOh7Q
+
+173. Need to add routing to store for both api / data
+   Created: Wed Jul 01 2026
+   Link: https://trello.com/c/xAjOyiyG
+
+174. Admin panel: create a page to display reporting of v2 commission logs. display earningrecords table data in it. Frontend + Backend.
+   Created: Wed Jul 01 2026
+   Link: https://trello.com/c/ney387Mi
+
+175. Admin: Deed logs not being displayed in member's profile
+   Created: Fri Jul 03 2026
+   Link: https://trello.com/c/1KLcqB2k
+
+176. Admin: Admin should be directed to User's profile on clicking username in an list
+   Created: Fri Jul 03 2026
+   Link: https://trello.com/c/M38cEfI7
+
+177. Admin: Add filters in Orders page
+   Created: Fri Jul 03 2026
+   Link: https://trello.com/c/BqCvdgnU
+
+178. Admin: Two numbers displayed twice in the same page
+   Created: Fri Jul 03 2026
+   Link: https://trello.com/c/QaeQFkru
+
+179. Admin: correct the numbers present in the Admin panel
+   Created: Fri Jul 03 2026
+   Link: https://trello.com/c/3fRseWaf
+
+180. Admin: New Page is required for Generated commission on each transaction
+   Created: Fri Jul 03 2026
+   Link: https://trello.com/c/f8rwmKiJ
+
+181. Admin: Subtract pool earnings from deferred wallet
+   Created: Fri Jul 03 2026
+   Link: https://trello.com/c/nwq8aeaK
+
+182. Admin: Add Export button for Manual emission request page
+   Created: Fri Jul 03 2026
+   Link: https://trello.com/c/UaDZF9FP
+
+183. Update the My assets page in the side menu
+   Created: Fri Jul 03 2026
+   Link: https://trello.com/c/ncDEWg2u
+
+184. Notifications bubble does not change on reading the notification
+   Created: Fri Jul 03 2026
+   Link: https://trello.com/c/wN31qucv
+
+185. Live Client requirement: Group members should get a notification whenever the group Creator/owner makes a post
+   Created: Fri Jul 03 2026
+   Link: https://trello.com/c/UzXl3ISb
+
+186. No need to display the privacy status of resources to the user
+   Created: Fri Jul 03 2026
+   Link: https://trello.com/c/mZlWsVPf
+
+187. (comments) Live: Pool names are not correct in Rewards page
+   Created: Fri Jul 03 2026
+   Link: https://trello.com/c/vyifvf6M
+
+188. Live: User should receive notifications if a member is added using their referral link
+   Created: Fri Jul 03 2026
+   Link: https://trello.com/c/TISnvKVE
+
+189. Price of the product in cart does not change even after changing from Admin side
+   Created: Fri Jul 03 2026
+   Link: https://trello.com/c/FulFWII9
+
+190. All tool platforms should have Mprofy logo to reach back to Mprofy dashboard
+   Created: Fri Jul 03 2026
+   Link: https://trello.com/c/6ZvWzriJ
+
+191. Make data importor flow similar to that of API flow
+   Created: Fri Jul 03 2026
+   Link: https://trello.com/c/RLulACEA
+
+192. Only two package flow in Mprojoin
+   Created: Fri Jul 03 2026
+   Link: https://trello.com/c/Wmg9mI1q
+
+193. Admin Live: Error fetching data in Commission logs
+   Created: Sat Jul 04 2026
+   Link: https://trello.com/c/2rHAJblk
+
+194. Live Urgent: No Voucher for Deed Course package in deutsch
+   Created: Sat Jul 04 2026
+   Link: https://trello.com/c/lzyeO7oF
+
+195. i just purchased api voucher with 100% DE, i cannot see any voucher code in voucher status page. But it created entry in order history.
+   Created: Tue Jul 07 2026
+   Link: https://trello.com/c/a2jcaWLR
+
+196. Live Urgent: No Voucher for Deed Course package in deutsch
+   Created: Tue Jul 07 2026
+   Link: https://trello.com/c/OtXTHldx
+
+197. Live client issue: User is unable to see complete group description
+   Created: Tue Jul 07 2026
+   Link: https://trello.com/c/SXx4vqMf
+
+198. Admin: Remove QV from entire Admin panel
+   Created: Tue Jul 07 2026
+   Link: https://trello.com/c/tFIJaMI0
+
+199. Admin: Remove unnecessary filters from orders page
+   Created: Tue Jul 07 2026
+   Link: https://trello.com/c/NtK962vn
+
+200. Live API: Add Profile NFT in Current status as well
+   Created: Tue Jul 07 2026
+   Link: https://trello.com/c/4U6WYqxO
+
+201. Live API: Status filter is not working properly in API users list
+   Created: Tue Jul 07 2026
+   Link: https://trello.com/c/V2LwEuwL
+
+202. For mprojoin API & mprojoin Data importer page, display "Purchase - 4900 DE"
+   Created: Tue Jul 07 2026
+   Link: https://trello.com/c/JLeREi5L
+
+203. For all products that has 100% DE payment accepted, display here "(OR pay <DE_AMOUNT> DE after checkout)".
+   Created: Tue Jul 07 2026
+   Link: https://trello.com/c/y8MlLa5l
+
+204. user cant earn deed energy on voucher payment. he already paid with same deed energy.
+   Created: Tue Jul 07 2026
+   Link: https://trello.com/c/Xueb4xez
+
+205.  Working of Deed energy in cart
+   Created: Tue Jul 07 2026
+   Link: https://trello.com/c/vMAGudLr
+
+206. Live: BV numbers are still given in Refuel Deed Energy
+   Created: Wed Jul 08 2026
+   Link: https://trello.com/c/UKWwDaG8
+
+207. Live: Cart bubble changes very slowly on emptying the cart
+   Created: Wed Jul 08 2026
+   Link: https://trello.com/c/8qsbzNW9
+
+208. Live: old product keeps displaying in cart page if the user purchases Refuel Deed Energy
+   Created: Wed Jul 08 2026
+   Link: https://trello.com/c/xCa1Ia9a
+
+209. Live Data Importer: Inactive Deed user is able to access Mprojoin
+   Created: Wed Jul 08 2026
+   Link: https://trello.com/c/Es2SnTYL
+
+210. Live: 'Buy package' button is displayed in already purchased courses
+   Created: Wed Jul 08 2026
+   Link: https://trello.com/c/gEa1HIoX
+
+211. Live Mprojoin: Change the name of purchase button in Store page
+   Created: Wed Jul 08 2026
+   Link: https://trello.com/c/ArRPUED4
+
+212. Live Mprojoin: Add a text in Cart page for Mprojoin tools
+   Created: Wed Jul 08 2026
+   Link: https://trello.com/c/hSIX2zEy
+
+213. Live Data Importer: Add Import Data button in Mprojoin Dashboard and Data Importer Overview page
+   Created: Wed Jul 08 2026
+   Link: https://trello.com/c/1msZt1Xh
+
+214. Live Data Importer: Add "Import File Sample" button in Mprojoin Dashboard
+   Created: Wed Jul 08 2026
+   Link: https://trello.com/c/mXnYC3p0
+
+215. My vouchers still have titles as API and not in general as discussed
+   Created: Wed Jul 08 2026
+   Link: https://trello.com/c/kW3UDtX7
+
+216. Should be named as Contact Support
+   Created: Wed Jul 08 2026
+   Link: https://trello.com/c/OmzffWoA
+
+217. Live API: API is shown as connected even when there is not activated API package
+   Created: Thu Jul 09 2026
+   Link: https://trello.com/c/FWIUieW0
+
+218. Live Admin Mprolearn: No need for notification icon and profile dropdown
+   Created: Thu Jul 09 2026
+   Link: https://trello.com/c/FBjA9hUJ
+
+219. Live Admin Mprolearn: No instructor details are given
+   Created: Thu Jul 09 2026
+   Link: https://trello.com/c/VBMBiR45
+
+220. Live Mprojoin: Change the position of Vouchers and API support page.
+   Created: Thu Jul 09 2026
+   Link: https://trello.com/c/9COcdgf5
+
+221. Live Admin Mprolearn: Pages in Learners list are displayed one by one
+   Created: Thu Jul 09 2026
+   Link: https://trello.com/c/6VOo6eW4
+
+222. Live Mprojoin: Change the name of the API Vouchers page
+   Created: Thu Jul 09 2026
+   Link: https://trello.com/c/56p2HGz0
+
+223. Live Data Importer: Sponsor is not displayed in Imported Users List if it is not mentioned in Excel
+   Created: Thu Jul 09 2026
+   Link: https://trello.com/c/5GwVEjNC
+
+224. Live Data importer: Add "Open Imported data" button in dashboard
+   Created: Thu Jul 09 2026
+   Link: https://trello.com/c/0YB2iyBR
+
+225. Live Mprojoin: Add Mprofy logo in Mprojoin Landing page
+   Created: Fri Jul 10 2026
+   Link: https://trello.com/c/tmz4Hl64
+
+226. Live Mprojoin: Change the Verified and Un-verifies users to Registered and Un-registered user
+   Created: Fri Jul 10 2026
+   Link: https://trello.com/c/ZIpj8m5M
+
+227. Live Data Importer: Add search box in the Imported users list
+   Created: Fri Jul 10 2026
+   Link: https://trello.com/c/b9uiXO1g
+
+228. Live Inbox: User is unable to send or see any inbox messages
+   Created: Fri Jul 10 2026
+   Link: https://trello.com/c/s5N3OcrD
+
+229. Live: User's own name is displayed in Conversation list
+   Created: Fri Jul 10 2026
+   Link: https://trello.com/c/Cfa9sVqj
+
+230. Live: Received and Unread messages should display double grey tick
+   Created: Fri Jul 10 2026
+   Link: https://trello.com/c/HN1KEQLx
+
+231. Live: Number of unread messages are always zero
+   Created: Fri Jul 10 2026
+   Link: https://trello.com/c/S3b3g1nx
+
+232. Live: Inbox page is loading very slowly
+   Created: Fri Jul 10 2026
+   Link: https://trello.com/c/kvohZk3e
+
+233. Live: User is unable to send Inbox messages
+   Created: Fri Jul 10 2026
+   Link: https://trello.com/c/ZBPNZs9y
+
+234. API & Data Importer: Users imported via data importer tool are visible in the API users list
+   Created: Fri Jul 10 2026
+   Link: https://trello.com/c/MJr2Gr7T
+
+235. Live Client issue: Remove the flags indicating the language
+   Created: Fri Jul 10 2026
+   Link: https://trello.com/c/TMMJ7Xfd
+
+236. Live Mprojoin: Logged-in imported user displays pending email invitation in the list
+   Created: Fri Jul 10 2026
+   Link: https://trello.com/c/yUfDfEtJ
+
+237. Live number of replies of a comment are shown as double the actual number
+   Created: Fri Jul 10 2026
+   Link: https://trello.com/c/ZIPWKVwJ
+
+238. Live: add delete button for comment replies as well
+   Created: Fri Jul 10 2026
+   Link: https://trello.com/c/xLc5EaZE
+
+239. Live: Number of comments are non-zero even when there is no comment
+   Created: Fri Jul 10 2026
+   Link: https://trello.com/c/rEHsj6GC
+
+240. (comments) Live urgent: Only english language is displayed in courses on My Assets page
+   Created: Fri Jul 10 2026
+   Link: https://trello.com/c/VoQ1WK1q
+
+241. Next best action and social notification section goes out of screen on mobile
+   Created: Fri Jul 10 2026
+   Link: https://trello.com/c/mLkh94o7
+
+242. Make it withdraw NFT, not withdrawNFT
+   Created: Fri Jul 10 2026
+   Link: https://trello.com/c/zLxbIFrt
+
+243. Deed energy report looks like this on mobile (user side)
+   Created: Fri Jul 10 2026
+   Link: https://trello.com/c/mVXLnWLL
+
+244. My username total DE balance is 114, didn't match with the logs. Check attachment
+   Created: Fri Jul 10 2026
+   Link: https://trello.com/c/OZMS0Y44
+
+245. Live: Remove the inactive Mprojoin vouchers from admin
+   Created: Fri Jul 10 2026
+   Link: https://trello.com/c/xYJ1a30S
+
+246. Live: Correct the number of slots given for Importer tool in Voucher status page
+   Created: Fri Jul 10 2026
+   Link: https://trello.com/c/Gey5kBgf
+
+247. Mprolearn signup screen on mobile
+   Created: Fri Jul 10 2026
+   Link: https://trello.com/c/r4N32z9j
+
+248. Live: Deed user is made inactive without completion of one year
+   Created: Sat Jul 11 2026
+   Link: https://trello.com/c/8VVEHdZ2
+
+249. Live: Remove Black border in the product images in store
+   Created: Sat Jul 11 2026
+   Link: https://trello.com/c/DkCLUUxa
+
+250. Live: Arrow buttons are not working in 'Buy Voucher' page
+   Created: Sat Jul 11 2026
+   Link: https://trello.com/c/I0Ak057x
+
+251. (check comments as well) Live Admin: Same list is being displayed on every page of Commissions list
+   Created: Sat Jul 11 2026
+   Link: https://trello.com/c/FmgKJjti
+
+252. (comments) Live: Number of unread messages are always zero
+   Created: Sat Jul 11 2026
+   Link: https://trello.com/c/QWEowGs3
+
+253. Live: View replies button shouldn't be displayed if there are no replies
+   Created: Sat Jul 11 2026
+   Link: https://trello.com/c/8PFTuPW0
+
+254. Live: Number of Active members in store should be correct
+   Created: Sat Jul 11 2026
+   Link: https://trello.com/c/1WQzVHpc
+
+255. Live: Resources should have a sharing link for the Mprofy Resources
+   Created: Sat Jul 11 2026
+   Link: https://trello.com/c/sKtuLtCm
+
+256. API: User is able to invite with a space in username
+   Created: Mon Jul 13 2026
+   Link: https://trello.com/c/m9wtnoU4
+
+257. Live: User gets logged out on clicking Vision Grid
+   Created: Mon Jul 13 2026
+   Link: https://trello.com/c/03WU5f19
+
+258. Live admin Mprojoin: One package in API is displayed on the wrong date
+   Created: Mon Jul 13 2026
+   Link: https://trello.com/c/tceLXPBT
+
+259. Live Admin Mprojoin: Data importer is listed in API report
+   Created: Mon Jul 13 2026
+   Link: https://trello.com/c/wQuM4xrp
+
+260. Mprojoin: Change Logged-in user to registered user
+   Created: Mon Jul 13 2026
+   Link: https://trello.com/c/hGDHjjMB
+
+261. Live Data Importer: User with a space in username is imported successfully
+   Created: Mon Jul 13 2026
+   Link: https://trello.com/c/a8NkyXXp
+
+262. Live Data Importer: Imported data popup is not displayed while uploading data via Dashboard or overview page
+   Created: Mon Jul 13 2026
+   Link: https://trello.com/c/jqjo6ScX
+
+263. Live Admin: Clarification needed for Founder NFT vouchers in Voucher status page
+   Created: Mon Jul 13 2026
+   Link: https://trello.com/c/VhOKOiw8
+
+264. Live Urgent (client requirement): Increase the limit of video upload in Mprochat
+   Created: Mon Jul 13 2026
+   Link: https://trello.com/c/CMNZQjS0
+
+265. Live data importer: Username filter works only after entering full username
+   Created: Tue Jul 14 2026
+   Link: https://trello.com/c/inHIp7bL
+
+266. Live API: add padding under API sync report
+   Created: Tue Jul 14 2026
+   Link: https://trello.com/c/moxQBsWk
+
+267. Live Admin: Mprofy resources should contain option to upload other media files as well
+   Created: Tue Jul 14 2026
+   Link: https://trello.com/c/5shEHElK
+
+268. Mprojoin: Current status is not updated to profile NFT for API and Imported users
+   Created: Tue Jul 14 2026
+   Link: https://trello.com/c/vNOvKhRY
+
+269. Data Importer: Login status is not updated even after account login
+   Created: Tue Jul 14 2026
+   Link: https://trello.com/c/coZkfDIo
+
+270. Mprojoin: change the name of the Login status column
+   Created: Tue Jul 14 2026
+   Link: https://trello.com/c/POCkZMgu
+
+271. Live Admin: An extra column is given in Vouchers page
+   Created: Tue Jul 14 2026
+   Link: https://trello.com/c/3OeVVI8E
+
+272. Mprojoin support: Message displayed after invalid information in support page should be specific
+   Created: Tue Jul 14 2026
+   Link: https://trello.com/c/BForvPsQ
+
+273. Live: Recently active filter are not working in Any of the tabs in "Members" Page
+   Created: Sat Jul 18 2026
+   Link: https://trello.com/c/NdauO0zs
+
+274. Mprojoin support: Message displayed after invalid information in support page should be specific
+   Created: Sat Jul 18 2026
+   Link: https://trello.com/c/JFhEdkZc
+
+275. Live: Align the filter names in Deed Energy report
+   Created: Sat Jul 18 2026
+   Link: https://trello.com/c/qhwtSgpO
+
+276. Mprojoin: User details are not changed in User list after changing them from admin panel
+   Created: Sat Jul 18 2026
+   Link: https://trello.com/c/GUZSTBiA
+
+277. Mprojoin: Separate all the reports of Importer and API
+   Created: Sat Jul 18 2026
+   Link: https://trello.com/c/oH7EW04q
+
+278. Mprojoin: User is unable to activate an API if Data importer is activated
+   Created: Sat Jul 18 2026
+   Link: https://trello.com/c/jU3QicQR
+
+279. Live: Link preview is displayed in the Group post
+   Created: Tue Jul 21 2026
+   Link: https://trello.com/c/CKqvyUvn
+
+280. Single users are givven with multiple nodes in the Web3 NFT tree
+   Created: Tue Jul 21 2026
+   Link: https://trello.com/c/hPFGmXpr
+
+281. Live Admin: Figures are not displayed in Manual emission request
+   Created: Tue Jul 21 2026
+   Link: https://trello.com/c/LCWtvv0J
+
+282. These numbers are not match. how can someone earn $0.80 if no amount was paid and fully deed energy was used.
+   Created: Wed Jul 22 2026
+   Link: https://trello.com/c/9oxreBg2
+
+283. In admin panel, main wallet is showing only polygon balance, but it should show bsc and eth balances too
+   Created: Wed Jul 22 2026
+   Link: https://trello.com/c/QKpsvjRd
+
+284. Live Client Urgent: Entire page is reloaded on accepting a connection request
+   Created: Thu Jul 23 2026
+   Link: https://trello.com/c/HUIdxddA
+
+285. Live Client Urgent: A particular user is unable to access his group
+   Created: Thu Jul 23 2026
+   Link: https://trello.com/c/e0Ci9EFZ
+
+286. Create a service to automate Trello from client board to dev board
+   Created: Fri Jul 24 2026
+   Link: https://trello.com/c/TutCBsrv
+
+287. Fix comments copy in automate trello service
+   Created: Fri Jul 24 2026
+   Link: https://trello.com/c/nlhnrHD2
+
+288. Fix auto archive issue in trello service
+   Created: Fri Jul 24 2026
+   Link: https://trello.com/c/Kw9WpiYD
+
+289. Live: Connect button should be changed to "pending" on sending connection request
+   Created: Fri Jul 24 2026
+   Link: https://trello.com/c/rplRohhU
+
+290. Live: Connect button should be changed to "pending" on sending connection request
+   Created: Fri Jul 24 2026
+   Link: https://trello.com/c/bV3wJrOg
+
+291. Add Sponsor Search items
+   Created: Mon Jul 27 2026
+   Link: https://trello.com/c/EwSACIz8
+
+292. Total Commission issues
+   Created: Mon Jul 27 2026
+   Link: https://trello.com/c/EdzCAtSW
+
+293. Live Client Urgent: Entire page is reloaded on accepting a connection request
+   Created: Mon Jul 27 2026
+   Link: https://trello.com/c/pHnacfvh
+
+294. Live Data Importer: Registered filter not working properly
+   Created: Mon Jul 27 2026
+   Link: https://trello.com/c/dVNNJ615
+
+295. Live Data Importer: Email invitation column in Imported users list
+   Created: Mon Jul 27 2026
+   Link: https://trello.com/c/BhvFLXVm
+
+296. Live API: Add filters for API users list
+   Created: Mon Jul 27 2026
+   Link: https://trello.com/c/Or51x3p2
+
+297. Comments are not getting coppied in trello automation
+   Created: Tue Jul 28 2026
+   Link: https://trello.com/c/c9XuMlZ9
+
+298. Admin Live: Change the name of the filter and Column
+   Created: Tue Jul 28 2026
+   Link: https://trello.com/c/okyTSEa9
+
+299. Admin Live: Need generated commission report for Both V1 and V2
+   Created: Tue Jul 28 2026
+   Link: https://trello.com/c/QK9kqZE1
+
+300. Admin Live: Need to add the following filters and columns in Order report
+   Created: Tue Jul 28 2026
+   Link: https://trello.com/c/ovisNazJ
+
+301. Mprofy & Mprolearn: Cancel button appears only on hovering mouse pointer
+   Created: Tue Jul 28 2026
+   Link: https://trello.com/c/hc3O9M3k
+
+302. Live: Upon accepting a request in notification page, the page turns blank until reloaded
+   Created: Tue Jul 28 2026
+   Link: https://trello.com/c/WRz2IKqe
+
+303. V2 Admin: On filtering out an empty BV report, the list is loaded very slowly
+   Created: Tue Jul 28 2026
+   Link: https://trello.com/c/eeohu9S3
+
+304. Staging Admin: Members search box is not working properly in Staging admin
+   Created: Tue Jul 28 2026
+   Link: https://trello.com/c/4rgXpDqC
+
+305. V2: After forcing user rank to higher star level "Next best action" card should also be update
+   Created: Tue Jul 28 2026
+   Link: https://trello.com/c/0FYz0wgZ
+
+306. Live: Appearance of all page names should be the same
+   Created: Tue Jul 28 2026
+   Link: https://trello.com/c/IeEKlgsT
+
+307. Admin Live:  a particular account is shown under Approved commission even if commission is pending
+   Created: Tue Jul 28 2026
+   Link: https://trello.com/c/BybxtCcT
+
+308. V2: Page not found is displayed on clicking opensea link for a user
+   Created: Tue Jul 28 2026
+   Link: https://trello.com/c/Dai2s5yb
+
+309. V2: complete Transaction Id should be displayed in the Web3 nft tree
+   Created: Tue Jul 28 2026
+   Link: https://trello.com/c/wqRWQn69
+
+310. Live: Ensure that only username is visible unless the member's profile is opened
+   Created: Tue Jul 28 2026
+   Link: https://trello.com/c/potQsCRV
+
+311. Live Client: Already existing users are being asked to reset password
+   Created: Thu Jul 30 2026
+   Link: https://trello.com/c/DKwDW9YZ
+
+312. Live Admin Mprolearn: Query regarding the creator plan in Mprolearn admin
+   Created: Thu Jul 30 2026
+   Link: https://trello.com/c/fTS96uxW
+
+313. Mprojoin: Separate all the reports of Importer and API
+   Created: Thu Jul 30 2026
+   Link: https://trello.com/c/is081q30
+
+314. Live urgent: Only english language is displayed in courses on My Assets page
+   Created: Thu Jul 30 2026
+   Link: https://trello.com/c/oO4ZW4AM
+
+315. certain tickets are becoming duplicated on trello like one ticket was assigned to me but it also got assigned to other as well and when i moved the ticket to done and pushed on prod then it vanished , can you please check if there is something wrong with the trello api
+   Created: Thu Jul 30 2026
+   Link: https://trello.com/c/rD6UdbOp
+
+316. Live Mprojoin: Space created between Activate buttons in Mprojoin dashboard
+   Created: Thu Jul 30 2026
+   Link: https://trello.com/c/UYINscvq
+
+317. Remove Inactive Items from Package Overview
+   Created: Fri Jul 31 2026
+   Link: https://trello.com/c/sNPf03dj
+
+318. Live API Urgent: Total number of users added successfully, does not add up correctly
+   Created: Fri Jul 31 2026
+   Link: https://trello.com/c/XN0LYo27
+
+319. Live API Urgent: the Data of My API and API management page do no match
+   Created: Fri Jul 31 2026
+   Link: https://trello.com/c/qwHMrlhA
+
+320. Live API Urgent: The number of records keep changing on My API page
+   Created: Fri Jul 31 2026
+   Link: https://trello.com/c/ZcWg1h1K
+
+321. Live Admin: BV report is removed
+   Created: Fri Jul 31 2026
+   Link: https://trello.com/c/YrPamL8D
+
+322. Live: There should be no user purchased voucher for Refuel DE and ABL products
+   Created: Sat Aug 01 2026
+   Link: https://trello.com/c/Nq4z90hS
+
+323. V2 Admin: On filtering out an empty BV report, the list is loaded very slowly
+   Created: Sat Aug 01 2026
+   Link: https://trello.com/c/u9v3z9Aw
+
+324. Admin Live: Need to add the following filters and columns in Order report
+   Created: Sat Aug 01 2026
+   Link: https://trello.com/c/VdKy3xKu
+
+325. Admin Live:  a particular account is shown under Approved commission even if commission is pending
+   Created: Sat Aug 01 2026
+   Link: https://trello.com/c/yhfhf0wd
+
+326. V2: Free collection doesn't need to be ordered
+   Created: Sat Aug 01 2026
+   Link: https://trello.com/c/KtHzfYXB
+
+327. Mprojoin: API id is given for data importer voucher
+   Created: Sat Aug 01 2026
+   Link: https://trello.com/c/kAVT2rc1
+
+328. Live: Recently active filters in Members page (client error)
+   Created: Sat Aug 01 2026
+   Link: https://trello.com/c/jjjJxc2b
+
+329. Wrong status of user is given in API management page
+   Created: Sat Aug 01 2026
+   Link: https://trello.com/c/0UYZfPGJ
+
+330. V2: Alert message is displayed on purchasing a Free voucher
+   Created: Sat Aug 01 2026
+   Link: https://trello.com/c/Ssnhj1Fm
+
+331. V2: Star pool levels should also be present in level filter
+   Created: Sat Aug 01 2026
+   Link: https://trello.com/c/xL1IohYy
+
+332. Pool report list shows up to 5 pages only
+   Created: Sat Aug 01 2026
+   Link: https://trello.com/c/yhcrs7Tv
+
+333. Live & V2: All filter names should be in similar case in My organization chart
+   Created: Sat Aug 01 2026
+   Link: https://trello.com/c/CHHOacbh
+
+334. Live Admin: Number of pages of Announcement list is not reduced on deleting some of the announcements
+   Created: Sat Aug 01 2026
+   Link: https://trello.com/c/H37lNPOw
+
+335. NFT Transfer: If the recipient account is logged in on another browser then it remains logged-in
+   Created: Sat Aug 01 2026
+   Link: https://trello.com/c/yGcVc8ht
+
+336. Admin V2: Balance filter is not working properly in DE report
+   Created: Sat Aug 01 2026
+   Link: https://trello.com/c/4LTFrhax
+
+337. Live Urgent Client issue: onrender URL
+   Created: Sat Aug 01 2026
+   Link: https://trello.com/c/Guq4NLvD
+
+338. Live Admin: No BV is generated for API activation for Root user
+   Created: Sat Aug 01 2026
+   Link: https://trello.com/c/gYrAgUK1
+
+339. Live: Keep only one url for Mprofy
+   Created: Sat Aug 01 2026
+   Link: https://trello.com/c/DD4Mxbsh
+
+340. Live API: Number of registered and unregistered users do not add up to users added
+   Created: Sun Aug 02 2026
+   Link: https://trello.com/c/myWUstNb
+
+341. Live Mprojoin: A data importer user only, is able to access API pages
+   Created: Wed Aug 05 2026
+   Link: https://trello.com/c/kVr9Usf4
+
+342. Staging Store: Buy voucher button is displayed even after making the Product inactive from admin store
+   Created: Wed Aug 05 2026
+   Link: https://trello.com/c/vkoGrkBy
+
+343. Live Admin Mprolearn: Query regarding the creator plan in Mprolearn admin
+   Created: Wed Aug 05 2026
+   Link: https://trello.com/c/km1veeab
+
+344. No other details is being displayed in My API page
+   Created: Wed Aug 05 2026
+   Link: https://trello.com/c/UYzDLJvW
+
+345. Mprojoin API: Root user filter is working only on entering full name
+   Created: Wed Aug 05 2026
+   Link: https://trello.com/c/2Q8ZZWZj
+
+346. Live Admin Mprojoin: API status should be Completed or Active
+   Created: Wed Aug 05 2026
+   Link: https://trello.com/c/kfx417VZ
+
+347. Live Admin API: Current stage of a voucher should be displayed in API Vouchers list
+   Created: Wed Aug 05 2026
+   Link: https://trello.com/c/7DgM0hZJ
+
+348. Live Admin: Profile NFT instead of founder
+   Created: Wed Aug 05 2026
+   Link: https://trello.com/c/FiqCrIRB
+
+349. Admin Live: Two different types of Active statuses is displayed in Mprojoin Vouchers list
+   Created: Wed Aug 05 2026
+   Link: https://trello.com/c/tIZhKsmZ
+
+350. Need to create bunch of skills in mprofy backend to write api with best practices, rate limiting and security measures
+   Created: Thu Aug 06 2026
+   Link: https://trello.com/c/uhSUTRvJ
+
+351. Live urgent: Only english language is displayed in courses on My Assets page
+   Created: Thu Aug 06 2026
+   Link: https://trello.com/c/3lFf9o6k
+
+352. Admin Live: Same entry is given for the entire list of API report
+   Created: Thu Aug 06 2026
+   Link: https://trello.com/c/2q9rK8MP
+
+353. Admin: Network error is displayed on uploading a very large resource
+   Created: Thu Aug 06 2026
+   Link: https://trello.com/c/A5ReLDLo
+
+354. Admin: Admin should be directed to User's profile on clicking username in any list
+   Created: Thu Aug 06 2026
+   Link: https://trello.com/c/pRRX4rZD
